@@ -1,0 +1,1588 @@
+,Company Name,No of stops,No of days in advanced booked,class,where to where,Route Value,Departure Time,Duration,Price,distance in km
+0,Air Asia,1,1,Economy,Delhi - Mumbai,3,8.0,6.58,5953,1148
+1,Air Asia,1,1,Economy,Delhi - Mumbai,3,9.42,6.58,5953,1148
+2,Air Asia,1,1,Economy,Delhi - Mumbai,3,12.67,7.58,5953,1148
+3,Air Asia,1,1,Economy,Delhi - Mumbai,3,11.92,8.33,5953,1148
+4,Air Asia,1,1,Economy,Delhi - Mumbai,3,8.0,8.58,5953,1148
+5,Air Asia,1,1,Economy,Delhi - Mumbai,3,18.67,11.67,5953,1148
+6,Air Asia,1,1,Economy,Delhi - Mumbai,3,16.25,14.08,5953,1148
+7,Air Asia,1,1,Economy,Delhi - Mumbai,3,8.58,16.08,5953,1148
+8,Go First,0,1,Economy,Delhi - Mumbai,3,18.83,1.92,5954,1148
+9,Go First,0,1,Economy,Delhi - Mumbai,3,9.08,2.0,5954,1148
+10,Go First,0,1,Economy,Delhi - Mumbai,3,6.25,2.08,5954,1148
+11,Go First,0,1,Economy,Delhi - Mumbai,3,14.33,2.08,5954,1148
+12,Go First,0,1,Economy,Delhi - Mumbai,3,20.5,2.08,5954,1148
+13,Go First,0,1,Economy,Delhi - Mumbai,3,21.5,2.08,5954,1148
+14,Go First,0,1,Economy,Delhi - Mumbai,3,22.75,2.08,5954,1148
+15,Go First,1,1,Economy,Delhi - Mumbai,3,17.75,4.67,5954,1148
+16,Go First,1,1,Economy,Delhi - Mumbai,3,10.67,5.0,5954,1148
+17,Go First,1,1,Economy,Delhi - Mumbai,3,15.5,5.58,5954,1148
+18,Go First,1,1,Economy,Delhi - Mumbai,3,13.5,5.83,5954,1148
+19,Go First,1,1,Economy,Delhi - Mumbai,3,12.58,6.75,5954,1148
+20,Go First,1,1,Economy,Delhi - Mumbai,3,10.67,6.83,5954,1148
+21,Go First,1,1,Economy,Delhi - Mumbai,3,8.83,6.92,5954,1148
+22,Go First,1,1,Economy,Delhi - Mumbai,3,15.5,7.25,5954,1148
+23,Vistara,0,1,Economy,Delhi - Mumbai,3,6.0,2.0,5955,1148
+24,SpiceJet,0,1,Economy,Delhi - Mumbai,3,18.67,2.0,5955,1148
+25,Vistara,0,1,Premium Economy,Delhi - Mumbai,3,6.0,2.0,6942,1148
+26,Vistara,0,1,Premium Economy,Delhi - Mumbai,3,21.67,2.17,6942,1148
+27,Vistara,0,1,Premium Economy,Delhi - Mumbai,3,7.5,2.25,6942,1148
+28,Vistara,0,1,Premium Economy,Delhi - Mumbai,3,19.75,2.25,6942,1148
+29,Vistara,0,1,Premium Economy,Delhi - Mumbai,3,8.83,2.33,6942,1148
+30,Vistara,0,1,Premium Economy,Delhi - Mumbai,3,18.92,2.33,6942,1148
+31,Vistara,1,1,Premium Economy,Delhi - Mumbai,3,7.17,7.83,11422,1148
+32,Vistara,1,1,Premium Economy,Delhi - Mumbai,3,20.58,14.08,11422,1148
+33,Vistara,1,1,Premium Economy,Delhi - Mumbai,3,7.17,15.83,11422,1148
+34,Vistara,1,1,Premium Economy,Delhi - Mumbai,3,7.17,27.5,11422,1148
+35,Vistara,1,1,Premium Economy,Delhi - Mumbai,3,20.58,18.42,11702,1148
+36,Vistara,1,1,Premium Economy,Delhi - Mumbai,3,14.75,8.25,11758,1148
+37,Vistara,1,1,Premium Economy,Delhi - Mumbai,3,14.75,19.92,11758,1148
+38,Vistara,1,1,Premium Economy,Delhi - Mumbai,3,14.75,24.25,12038,1148
+39,Vistara,0,1,Premium Economy,Delhi - Mumbai,3,9.5,2.17,12318,1148
+40,Vistara,1,1,Premium Economy,Delhi - Mumbai,3,17.17,4.42,13158,1148
+41,Vistara,1,1,Premium Economy,Delhi - Mumbai,3,20.67,11.75,14138,1148
+42,Vistara,1,1,Premium Economy,Delhi - Mumbai,3,20.67,26.75,14446,1148
+43,Vistara,1,1,Premium Economy,Delhi - Mumbai,3,20.58,26.42,14670,1148
+44,Vistara,1,1,Premium Economy,Delhi - Mumbai,3,13.67,7.92,14726,1148
+45,Vistara,1,1,Premium Economy,Delhi - Mumbai,3,17.17,4.58,15398,1148
+46,Vistara,0,1,Premium Economy,Delhi - Mumbai,3,10.33,2.25,15734,1148
+47,Vistara,1,1,Premium Economy,Delhi - Mumbai,3,8.17,12.08,16714,1148
+48,Vistara,1,1,Premium Economy,Delhi - Mumbai,3,8.17,13.67,16714,1148
+49,Vistara,1,1,Premium Economy,Delhi - Mumbai,3,8.17,15.25,16714,1148
+50,Air India,0,1,Business,Delhi - Mumbai,3,7.0,2.08,20012,1148
+51,Air India,0,1,Business,Delhi - Mumbai,3,8.0,2.17,20012,1148
+52,Air India,0,1,Business,Delhi - Mumbai,3,10.67,2.17,20012,1148
+53,Air India,0,1,Business,Delhi - Mumbai,3,9.0,2.25,20012,1148
+54,Air India,0,1,Business,Delhi - Mumbai,3,19.0,2.25,20012,1148
+55,Air India,1,1,Business,Delhi - Mumbai,3,18.0,3.58,20012,1148
+56,Air India,1,1,Business,Delhi - Mumbai,3,15.08,3.17,25612,1148
+57,Air India,1,1,Business,Delhi - Mumbai,3,13.33,4.5,29628,1148
+58,Air India,1,1,Business,Delhi - Mumbai,3,20.17,23.83,29716,1148
+59,Air India,1,1,Business,Delhi - Mumbai,3,12.83,6.58,29777,1148
+60,Vistara,1,1,Business,Delhi - Mumbai,3,13.33,23.33,30249,1148
+61,Air India,1,1,Business,Delhi - Mumbai,3,4.92,9.5,32212,1148
+62,Air India,2,1,Business,Delhi - Mumbai,3,21.25,18.67,32212,1148
+63,Air India,1,1,Business,Delhi - Mumbai,3,15.08,24.83,32982,1148
+64,Vistara,1,1,Business,Delhi - Mumbai,3,17.17,17.83,33609,1148
+65,Vistara,1,1,Business,Delhi - Mumbai,3,13.33,5.0,34617,1148
+66,Air India,1,1,Business,Delhi - Mumbai,3,21.42,9.75,34622,1148
+67,Air India,1,1,Business,Delhi - Mumbai,3,21.42,12.0,34622,1148
+68,Air India,1,1,Business,Delhi - Mumbai,3,9.75,13.75,34622,1148
+69,Air India,1,1,Business,Delhi - Mumbai,3,8.33,15.17,34622,1148
+70,Air India,1,1,Business,Delhi - Mumbai,3,9.75,21.42,34622,1148
+71,Air India,1,1,Business,Delhi - Mumbai,3,8.33,22.83,34622,1148
+72,Air India,1,1,Business,Delhi - Mumbai,3,9.75,23.67,34622,1148
+73,Air India,1,1,Business,Delhi - Mumbai,3,8.33,25.08,34622,1148
+74,Air India,1,1,Business,Delhi - Mumbai,3,21.42,26.08,34622,1148
+75,Air Asia,1,7,Economy,Delhi - Mumbai,3,9.42,6.58,5953,1148
+76,Air Asia,1,7,Economy,Delhi - Mumbai,3,12.67,7.58,5953,1148
+77,Air Asia,1,7,Economy,Delhi - Mumbai,3,11.92,8.33,5953,1148
+78,Air Asia,1,7,Economy,Delhi - Mumbai,3,18.67,11.67,5953,1148
+79,Air Asia,1,7,Economy,Delhi - Mumbai,3,8.0,14.17,5953,1148
+80,Air Asia,1,7,Economy,Delhi - Mumbai,3,8.58,16.08,5953,1148
+81,Go First,0,7,Economy,Delhi - Mumbai,3,6.25,2.08,5954,1148
+82,Go First,0,7,Economy,Delhi - Mumbai,3,20.5,2.08,5954,1148
+83,Go First,0,7,Economy,Delhi - Mumbai,3,21.5,2.08,5954,1148
+84,Go First,0,7,Economy,Delhi - Mumbai,3,22.75,2.08,5954,1148
+85,Go First,1,7,Economy,Delhi - Mumbai,3,15.5,5.58,5954,1148
+86,Go First,1,7,Economy,Delhi - Mumbai,3,8.83,6.92,5954,1148
+87,Go First,1,7,Economy,Delhi - Mumbai,3,15.5,7.25,5954,1148
+88,Vistara,0,7,Economy,Delhi - Mumbai,3,6.0,2.0,5955,1148
+89,SpiceJet,0,7,Economy,Delhi - Mumbai,3,18.67,2.0,5955,1148
+90,IndiGo,0,7,Economy,Delhi - Mumbai,3,19.08,2.0,5955,1148
+91,Air India,0,7,Economy,Delhi - Mumbai,3,7.0,2.08,5955,1148
+92,IndiGo,0,7,Economy,Delhi - Mumbai,3,13.17,2.08,5955,1148
+93,Vistara,0,7,Economy,Delhi - Mumbai,3,15.17,2.08,5955,1148
+94,IndiGo,0,7,Economy,Delhi - Mumbai,3,20.5,2.08,5955,1148
+95,IndiGo,0,7,Economy,Delhi - Mumbai,3,5.0,2.17,5955,1148
+96,IndiGo,0,7,Economy,Delhi - Mumbai,3,6.17,2.17,5955,1148
+97,Air India,0,7,Economy,Delhi - Mumbai,3,8.0,2.17,5955,1148
+98,Vistara,0,7,Economy,Delhi - Mumbai,3,9.5,2.17,5955,1148
+99,Air India,0,7,Economy,Delhi - Mumbai,3,10.67,2.17,5955,1148
+100,Vistara,0,7,Premium Economy,Delhi - Mumbai,3,6.0,2.0,6942,1148
+101,Vistara,0,7,Premium Economy,Delhi - Mumbai,3,21.67,2.17,6942,1148
+102,Vistara,0,7,Premium Economy,Delhi - Mumbai,3,7.5,2.25,6942,1148
+103,Vistara,0,7,Premium Economy,Delhi - Mumbai,3,19.75,2.25,6942,1148
+104,Vistara,0,7,Premium Economy,Delhi - Mumbai,3,8.83,2.33,6942,1148
+105,Vistara,0,7,Premium Economy,Delhi - Mumbai,3,17.75,2.33,6942,1148
+106,Vistara,0,7,Premium Economy,Delhi - Mumbai,3,18.92,2.33,6942,1148
+107,Vistara,0,7,Premium Economy,Delhi - Mumbai,3,9.5,2.17,7278,1148
+108,Vistara,0,7,Premium Economy,Delhi - Mumbai,3,16.92,2.17,7278,1148
+109,Vistara,0,7,Premium Economy,Delhi - Mumbai,3,10.33,2.25,7278,1148
+110,Vistara,1,7,Premium Economy,Delhi - Mumbai,3,17.17,17.83,11142,1148
+111,Vistara,1,7,Premium Economy,Delhi - Mumbai,3,17.75,5.25,11422,1148
+112,Vistara,1,7,Premium Economy,Delhi - Mumbai,3,7.17,7.83,11422,1148
+113,Vistara,1,7,Premium Economy,Delhi - Mumbai,3,14.75,8.25,11422,1148
+114,Vistara,1,7,Premium Economy,Delhi - Mumbai,3,20.58,14.08,11422,1148
+115,Vistara,1,7,Premium Economy,Delhi - Mumbai,3,7.17,15.83,11422,1148
+116,Vistara,1,7,Premium Economy,Delhi - Mumbai,3,17.75,16.92,11422,1148
+117,Vistara,1,7,Premium Economy,Delhi - Mumbai,3,20.58,18.42,11422,1148
+118,Vistara,1,7,Premium Economy,Delhi - Mumbai,3,14.75,19.92,11422,1148
+119,Vistara,1,7,Premium Economy,Delhi - Mumbai,3,17.75,21.25,11422,1148
+120,Vistara,1,7,Premium Economy,Delhi - Mumbai,3,14.75,24.25,11422,1148
+121,Vistara,1,7,Premium Economy,Delhi - Mumbai,3,20.58,26.42,11422,1148
+122,Vistara,1,7,Premium Economy,Delhi - Mumbai,3,7.17,27.5,11422,1148
+123,Vistara,0,7,Premium Economy,Delhi - Mumbai,3,12.75,2.17,12318,1148
+124,Vistara,1,7,Premium Economy,Delhi - Mumbai,3,13.67,21.33,13494,1148
+125,Air India,0,7,Business,Delhi - Mumbai,3,7.0,2.08,20012,1148
+126,Air India,0,7,Business,Delhi - Mumbai,3,8.0,2.17,20012,1148
+127,Air India,0,7,Business,Delhi - Mumbai,3,10.67,2.17,20012,1148
+128,Air India,0,7,Business,Delhi - Mumbai,3,20.0,2.17,20012,1148
+129,Air India,0,7,Business,Delhi - Mumbai,3,9.0,2.25,20012,1148
+130,Air India,0,7,Business,Delhi - Mumbai,3,19.0,2.25,20012,1148
+131,Air India,1,7,Business,Delhi - Mumbai,3,15.08,3.17,20012,1148
+132,Air India,1,7,Business,Delhi - Mumbai,3,18.0,3.58,20012,1148
+133,Vistara,0,7,Business,Delhi - Mumbai,3,9.5,2.17,28872,1148
+134,Air India,1,7,Business,Delhi - Mumbai,3,15.08,24.83,29622,1148
+135,Air India,1,7,Business,Delhi - Mumbai,3,13.33,4.5,29628,1148
+136,Air India,1,7,Business,Delhi - Mumbai,3,20.17,23.83,29716,1148
+137,Air India,1,7,Business,Delhi - Mumbai,3,20.0,13.67,29776,1148
+138,Air India,1,7,Business,Delhi - Mumbai,3,13.0,24.58,29776,1148
+139,Air India,1,7,Business,Delhi - Mumbai,3,12.83,6.58,29777,1148
+140,Vistara,1,7,Business,Delhi - Mumbai,3,13.33,23.33,30249,1148
+141,Air India,1,7,Business,Delhi - Mumbai,3,18.5,18.92,31622,1148
+142,Air India,1,7,Business,Delhi - Mumbai,3,12.17,20.58,31622,1148
+143,Air India,2,7,Business,Delhi - Mumbai,3,21.25,18.67,32212,1148
+144,Vistara,1,7,Business,Delhi - Mumbai,3,17.17,4.42,33609,1148
+145,Vistara,1,7,Business,Delhi - Mumbai,3,17.17,17.83,33609,1148
+146,Vistara,0,7,Business,Delhi - Mumbai,3,6.0,2.0,34472,1148
+147,Vistara,0,7,Business,Delhi - Mumbai,3,15.17,2.08,34472,1148
+148,Vistara,0,7,Business,Delhi - Mumbai,3,12.75,2.17,34472,1148
+149,Vistara,0,7,Business,Delhi - Mumbai,3,21.67,2.17,34472,1148
+150,IndiGo,1,30,Economy,Delhi - Mumbai,3,12.92,10.33,2456,1148
+151,Air Asia,0,30,Economy,Delhi - Mumbai,3,4.42,2.17,2757,1148
+152,SpiceJet,0,30,Economy,Delhi - Mumbai,3,6.5,2.33,3086,1148
+153,SpiceJet,0,30,Economy,Delhi - Mumbai,3,7.33,2.25,3506,1148
+154,Go First,0,30,Economy,Delhi - Mumbai,3,7.0,2.17,3569,1148
+155,Go First,0,30,Economy,Delhi - Mumbai,3,8.0,2.17,3569,1148
+156,Go First,0,30,Economy,Delhi - Mumbai,3,10.5,2.33,3569,1148
+157,IndiGo,0,30,Economy,Delhi - Mumbai,3,6.5,2.17,3570,1148
+158,IndiGo,0,30,Economy,Delhi - Mumbai,3,7.25,2.17,3570,1148
+159,IndiGo,0,30,Economy,Delhi - Mumbai,3,1.08,2.25,3570,1148
+160,IndiGo,0,30,Economy,Delhi - Mumbai,3,14.33,2.25,3570,1148
+161,IndiGo,0,30,Economy,Delhi - Mumbai,3,4.75,2.42,3570,1148
+162,IndiGo,1,30,Economy,Delhi - Mumbai,3,12.92,4.92,3623,1148
+163,IndiGo,1,30,Economy,Delhi - Mumbai,3,21.33,9.75,3646,1148
+164,IndiGo,1,30,Economy,Delhi - Mumbai,3,17.92,5.33,3673,1148
+165,IndiGo,1,30,Economy,Delhi - Mumbai,3,21.83,10.42,3673,1148
+166,Air India,0,30,Economy,Delhi - Mumbai,3,7.0,2.08,3736,1148
+167,Air India,0,30,Economy,Delhi - Mumbai,3,8.0,2.17,3736,1148
+168,Air India,0,30,Economy,Delhi - Mumbai,3,10.67,2.17,3736,1148
+169,Air India,0,30,Economy,Delhi - Mumbai,3,9.0,2.25,3736,1148
+170,Vistara,0,30,Economy,Delhi - Mumbai,3,7.5,2.25,3840,1148
+171,Go First,0,30,Economy,Delhi - Mumbai,3,22.5,2.17,3953,1148
+172,Go First,0,30,Economy,Delhi - Mumbai,3,2.67,2.25,3953,1148
+173,Go First,0,30,Economy,Delhi - Mumbai,3,21.0,2.25,3953,1148
+174,Go First,0,30,Economy,Delhi - Mumbai,3,17.92,2.5,3953,1148
+175,Vistara,0,30,Premium Economy,Delhi - Mumbai,3,6.0,2.0,3985,1148
+176,Vistara,0,30,Premium Economy,Delhi - Mumbai,3,9.5,2.17,4545,1148
+177,Vistara,0,30,Premium Economy,Delhi - Mumbai,3,12.83,2.17,4545,1148
+178,Vistara,0,30,Premium Economy,Delhi - Mumbai,3,19.83,2.17,4545,1148
+179,Vistara,0,30,Premium Economy,Delhi - Mumbai,3,10.33,2.25,4545,1148
+180,Vistara,0,30,Premium Economy,Delhi - Mumbai,3,11.67,2.33,4545,1148
+181,Vistara,0,30,Premium Economy,Delhi - Mumbai,3,7.5,2.25,4854,1148
+182,Vistara,0,30,Premium Economy,Delhi - Mumbai,3,8.83,2.33,4854,1148
+183,Vistara,0,30,Premium Economy,Delhi - Mumbai,3,17.75,2.33,4854,1148
+184,Vistara,0,30,Premium Economy,Delhi - Mumbai,3,18.92,2.33,4854,1148
+185,Vistara,1,30,Premium Economy,Delhi - Mumbai,3,13.67,4.58,8246,1148
+186,Vistara,0,30,Premium Economy,Delhi - Mumbai,3,20.67,2.17,10638,1148
+187,Vistara,0,30,Premium Economy,Delhi - Mumbai,3,21.67,2.17,10638,1148
+188,Vistara,0,30,Premium Economy,Delhi - Mumbai,3,15.5,2.17,12318,1148
+189,Vistara,0,30,Premium Economy,Delhi - Mumbai,3,16.92,2.17,12318,1148
+190,Vistara,1,30,Premium Economy,Delhi - Mumbai,3,17.17,4.42,12951,1148
+191,Vistara,1,30,Premium Economy,Delhi - Mumbai,3,13.67,7.92,12951,1148
+192,Vistara,1,30,Premium Economy,Delhi - Mumbai,3,17.17,22.25,12951,1148
+193,Vistara,1,30,Premium Economy,Delhi - Mumbai,3,13.67,25.75,12951,1148
+194,Air India,0,30,Business,Delhi - Mumbai,3,7.0,2.08,23496,1148
+195,Air India,0,30,Business,Delhi - Mumbai,3,8.0,2.17,23496,1148
+196,Air India,0,30,Business,Delhi - Mumbai,3,10.67,2.17,23496,1148
+197,Air India,0,30,Business,Delhi - Mumbai,3,20.0,2.17,23496,1148
+198,Air India,0,30,Business,Delhi - Mumbai,3,9.0,2.25,23496,1148
+199,Air India,1,30,Business,Delhi - Mumbai,3,15.08,3.17,23496,1148
+200,Vistara,0,30,Business,Delhi - Mumbai,3,9.5,2.17,28872,1148
+201,Vistara,0,30,Business,Delhi - Mumbai,3,11.67,2.33,28872,1148
+202,Vistara,0,30,Business,Delhi - Mumbai,3,20.67,2.17,29656,1148
+203,Vistara,0,30,Business,Delhi - Mumbai,3,16.92,2.17,29992,1148
+204,Air India,1,30,Business,Delhi - Mumbai,3,13.0,26.83,33522,1148
+205,Air India,1,30,Business,Delhi - Mumbai,3,5.92,3.83,33670,1148
+206,Air India,1,30,Business,Delhi - Mumbai,3,5.92,17.5,33670,1148
+207,Vistara,0,30,Business,Delhi - Mumbai,3,21.67,2.17,34472,1148
+208,Vistara,0,30,Business,Delhi - Mumbai,3,10.33,2.25,34472,1148
+209,Vistara,0,30,Business,Delhi - Mumbai,3,7.5,2.25,36712,1148
+210,Vistara,0,30,Business,Delhi - Mumbai,3,17.75,2.33,36712,1148
+211,Vistara,0,30,Business,Delhi - Mumbai,3,18.92,2.33,36712,1148
+212,Air India,1,30,Business,Delhi - Mumbai,3,13.33,4.5,36926,1148
+213,Air India,1,30,Business,Delhi - Mumbai,3,10.25,5.42,39310,1148
+214,Vistara,1,30,Business,Delhi - Mumbai,3,13.33,26.67,39495,1148
+215,Vistara,1,30,Business,Delhi - Mumbai,3,13.67,4.58,39536,1148
+216,Vistara,1,30,Business,Delhi - Mumbai,3,17.17,4.42,39965,1148
+217,Vistara,1,30,Business,Delhi - Mumbai,3,13.67,7.92,39965,1148
+218,Vistara,1,30,Business,Delhi - Mumbai,3,17.17,22.25,39965,1148
+219,Air Asia,0,60,Economy,Delhi - Mumbai,3,4.42,2.17,2456,1148
+220,Go First,0,60,Economy,Delhi - Mumbai,3,7.0,2.17,2456,1148
+221,Go First,0,60,Economy,Delhi - Mumbai,3,8.0,2.17,2456,1148
+222,Go First,0,60,Economy,Delhi - Mumbai,3,2.67,2.25,2456,1148
+223,SpiceJet,0,60,Economy,Delhi - Mumbai,3,7.33,2.25,2456,1148
+224,Go First,0,60,Economy,Delhi - Mumbai,3,14.33,2.25,2456,1148
+225,SpiceJet,0,60,Economy,Delhi - Mumbai,3,18.83,2.25,2456,1148
+226,IndiGo,0,60,Economy,Delhi - Mumbai,3,19.67,2.25,2456,1148
+227,Go First,0,60,Economy,Delhi - Mumbai,3,19.67,2.25,2456,1148
+228,Go First,0,60,Economy,Delhi - Mumbai,3,21.0,2.25,2456,1148
+229,IndiGo,0,60,Economy,Delhi - Mumbai,3,5.5,2.33,2456,1148
+230,SpiceJet,0,60,Economy,Delhi - Mumbai,3,6.5,2.33,2456,1148
+231,Go First,0,60,Economy,Delhi - Mumbai,3,10.5,2.33,2456,1148
+232,SpiceJet,0,60,Economy,Delhi - Mumbai,3,19.75,2.33,2456,1148
+233,IndiGo,0,60,Economy,Delhi - Mumbai,3,20.5,2.33,2456,1148
+234,IndiGo,0,60,Economy,Delhi - Mumbai,3,8.0,2.42,2456,1148
+235,IndiGo,0,60,Economy,Delhi - Mumbai,3,8.75,2.42,2456,1148
+236,Go First,0,60,Economy,Delhi - Mumbai,3,15.0,2.5,2456,1148
+237,Go First,0,60,Economy,Delhi - Mumbai,3,17.92,2.5,2456,1148
+238,Air India,0,60,Economy,Delhi - Mumbai,3,7.0,2.08,2476,1148
+239,Air India,0,60,Economy,Delhi - Mumbai,3,8.0,2.17,2476,1148
+240,Air India,0,60,Economy,Delhi - Mumbai,3,10.67,2.17,2476,1148
+241,Air India,0,60,Economy,Delhi - Mumbai,3,9.0,2.25,2476,1148
+242,Air India,1,60,Economy,Delhi - Mumbai,3,17.83,3.75,2476,1148
+243,Vistara,0,60,Economy,Delhi - Mumbai,3,6.0,2.0,2556,1148
+244,Vistara,0,60,Premium Economy,Delhi - Mumbai,3,6.0,2.0,3466,1148
+245,Vistara,0,60,Premium Economy,Delhi - Mumbai,3,20.67,2.17,3466,1148
+246,Vistara,0,60,Premium Economy,Delhi - Mumbai,3,21.67,2.17,3466,1148
+247,Vistara,0,60,Premium Economy,Delhi - Mumbai,3,9.5,2.17,4045,1148
+248,Vistara,0,60,Premium Economy,Delhi - Mumbai,3,12.83,2.17,4045,1148
+249,Vistara,0,60,Premium Economy,Delhi - Mumbai,3,15.5,2.17,4045,1148
+250,Vistara,0,60,Premium Economy,Delhi - Mumbai,3,16.92,2.17,4045,1148
+251,Vistara,0,60,Premium Economy,Delhi - Mumbai,3,19.83,2.17,4045,1148
+252,Vistara,0,60,Premium Economy,Delhi - Mumbai,3,10.33,2.25,4045,1148
+253,Vistara,0,60,Premium Economy,Delhi - Mumbai,3,11.67,2.33,4045,1148
+254,Vistara,0,60,Premium Economy,Delhi - Mumbai,3,7.5,2.25,4605,1148
+255,Vistara,0,60,Premium Economy,Delhi - Mumbai,3,8.83,2.33,4605,1148
+256,Vistara,0,60,Premium Economy,Delhi - Mumbai,3,17.75,2.33,4605,1148
+257,Vistara,0,60,Premium Economy,Delhi - Mumbai,3,18.92,2.33,5165,1148
+258,Vistara,1,60,Premium Economy,Delhi - Mumbai,3,17.17,22.25,6487,1148
+259,Vistara,1,60,Premium Economy,Delhi - Mumbai,3,13.67,25.75,6487,1148
+260,Vistara,1,60,Premium Economy,Delhi - Mumbai,3,13.67,4.58,8246,1148
+261,Vistara,1,60,Premium Economy,Delhi - Mumbai,3,17.17,4.42,9591,1148
+262,Vistara,1,60,Premium Economy,Delhi - Mumbai,3,13.67,7.92,9591,1148
+263,Vistara,0,60,Business,Delhi - Mumbai,3,20.67,2.17,22152,1148
+264,Air India,0,60,Business,Delhi - Mumbai,3,7.0,2.08,23496,1148
+265,Air India,0,60,Business,Delhi - Mumbai,3,8.0,2.17,23496,1148
+266,Air India,0,60,Business,Delhi - Mumbai,3,10.67,2.17,23496,1148
+267,Air India,0,60,Business,Delhi - Mumbai,3,20.0,2.17,23496,1148
+268,Air India,0,60,Business,Delhi - Mumbai,3,9.0,2.25,23496,1148
+269,Air India,1,60,Business,Delhi - Mumbai,3,15.08,3.17,23496,1148
+270,Air India,1,60,Business,Delhi - Mumbai,3,17.83,3.75,23496,1148
+271,Vistara,0,60,Business,Delhi - Mumbai,3,9.5,2.17,28872,1148
+272,Vistara,0,60,Business,Delhi - Mumbai,3,11.67,2.33,28872,1148
+273,Vistara,0,60,Business,Delhi - Mumbai,3,16.92,2.17,29992,1148
+274,Air India,1,60,Business,Delhi - Mumbai,3,13.0,26.83,33522,1148
+275,Vistara,0,60,Business,Delhi - Mumbai,3,6.0,2.0,34472,1148
+276,Vistara,0,60,Business,Delhi - Mumbai,3,12.83,2.17,34472,1148
+277,Vistara,0,60,Business,Delhi - Mumbai,3,15.5,2.17,34472,1148
+278,Vistara,0,60,Business,Delhi - Mumbai,3,21.67,2.17,34472,1148
+279,Vistara,0,60,Business,Delhi - Mumbai,3,10.33,2.25,34472,1148
+280,Vistara,0,60,Business,Delhi - Mumbai,3,7.5,2.25,36712,1148
+281,Vistara,0,60,Business,Delhi - Mumbai,3,8.83,2.33,36712,1148
+282,Vistara,0,60,Business,Delhi - Mumbai,3,17.75,2.33,36712,1148
+283,Vistara,0,60,Business,Delhi - Mumbai,3,18.92,2.33,36712,1148
+284,Vistara,1,60,Business,Delhi - Mumbai,3,13.33,26.67,37255,1148
+285,Air India,1,60,Business,Delhi - Mumbai,3,10.25,5.42,39310,1148
+286,Vistara,1,60,Business,Delhi - Mumbai,3,13.67,4.58,39536,1148
+287,Vistara,1,60,Business,Delhi - Mumbai,3,17.17,4.42,39965,1148
+288,Air Asia,1,1,Economy,Delhi - Bengaluru,4,15.67,4.92,7422,1740
+289,Air Asia,1,1,Economy,Delhi - Bengaluru,4,12.67,5.67,7422,1740
+290,Air Asia,1,1,Economy,Delhi - Bengaluru,4,14.5,6.08,7422,1740
+291,Air Asia,1,1,Economy,Delhi - Bengaluru,4,11.92,6.42,7422,1740
+292,Air Asia,1,1,Economy,Delhi - Bengaluru,4,4.92,6.58,7422,1740
+293,Air Asia,1,1,Economy,Delhi - Bengaluru,4,7.17,6.75,7422,1740
+294,Air Asia,1,1,Economy,Delhi - Bengaluru,4,6.17,7.75,7422,1740
+295,Air Asia,1,1,Economy,Delhi - Bengaluru,4,10.08,8.25,7422,1740
+296,Air Asia,1,1,Economy,Delhi - Bengaluru,4,16.08,8.92,7422,1740
+297,Go First,0,1,Economy,Delhi - Bengaluru,4,5.75,2.58,7424,1740
+298,Go First,0,1,Economy,Delhi - Bengaluru,4,19.75,2.58,7424,1740
+299,Go First,1,1,Economy,Delhi - Bengaluru,4,18.83,5.25,7424,1740
+300,Go First,1,1,Economy,Delhi - Bengaluru,4,15.5,6.75,7424,1740
+301,Go First,1,1,Economy,Delhi - Bengaluru,4,22.75,9.0,7424,1740
+302,Go First,1,1,Economy,Delhi - Bengaluru,4,21.5,10.25,7424,1740
+303,Go First,1,1,Economy,Delhi - Bengaluru,4,9.08,10.67,7424,1740
+304,Go First,1,1,Economy,Delhi - Bengaluru,4,20.5,11.25,7424,1740
+305,Go First,1,1,Economy,Delhi - Bengaluru,4,5.75,11.33,7424,1740
+306,Go First,1,1,Economy,Delhi - Bengaluru,4,8.75,12.08,7424,1740
+307,Go First,1,1,Economy,Delhi - Bengaluru,4,18.83,12.92,7424,1740
+308,Go First,1,1,Economy,Delhi - Bengaluru,4,6.25,13.5,7424,1740
+309,Go First,1,1,Economy,Delhi - Bengaluru,4,9.08,15.0,7424,1740
+310,SpiceJet,0,1,Economy,Delhi - Bengaluru,4,5.75,2.58,7425,1740
+311,Vistara,0,1,Economy,Delhi - Bengaluru,4,20.67,2.67,7425,1740
+312,Air India,0,1,Economy,Delhi - Bengaluru,4,6.17,2.75,7425,1740
+313,Vistara,0,1,Premium Economy,Delhi - Bengaluru,4,20.67,2.67,9630,1740
+314,Vistara,0,1,Premium Economy,Delhi - Bengaluru,4,19.83,2.83,9630,1740
+315,Vistara,0,1,Premium Economy,Delhi - Bengaluru,4,8.17,2.67,11198,1740
+316,Vistara,1,1,Premium Economy,Delhi - Bengaluru,4,7.5,10.25,12458,1740
+317,Vistara,1,1,Premium Economy,Delhi - Bengaluru,4,21.67,11.17,12458,1740
+318,Vistara,1,1,Premium Economy,Delhi - Bengaluru,4,6.0,11.75,12458,1740
+319,Vistara,1,1,Premium Economy,Delhi - Bengaluru,4,19.75,13.08,12458,1740
+320,Vistara,1,1,Premium Economy,Delhi - Bengaluru,4,7.5,13.42,12458,1740
+321,Vistara,1,1,Premium Economy,Delhi - Bengaluru,4,18.92,13.92,12458,1740
+322,Vistara,1,1,Premium Economy,Delhi - Bengaluru,4,6.0,14.92,12458,1740
+323,Vistara,1,1,Premium Economy,Delhi - Bengaluru,4,7.5,15.33,12458,1740
+324,Vistara,1,1,Premium Economy,Delhi - Bengaluru,4,6.0,16.83,12458,1740
+325,Vistara,1,1,Premium Economy,Delhi - Bengaluru,4,7.5,25.33,12458,1740
+326,Vistara,1,1,Premium Economy,Delhi - Bengaluru,4,6.0,26.83,12458,1740
+327,Vistara,1,1,Premium Economy,Delhi - Bengaluru,4,6.0,4.75,12766,1740
+328,Vistara,1,1,Premium Economy,Delhi - Bengaluru,4,10.33,7.42,12794,1740
+329,Vistara,1,1,Premium Economy,Delhi - Bengaluru,4,10.33,10.58,12794,1740
+330,Vistara,1,1,Premium Economy,Delhi - Bengaluru,4,10.33,12.5,12794,1740
+331,Vistara,1,1,Premium Economy,Delhi - Bengaluru,4,10.33,22.5,12794,1740
+332,Vistara,0,1,Premium Economy,Delhi - Bengaluru,4,17.58,2.83,13494,1740
+333,Vistara,2,1,Premium Economy,Delhi - Bengaluru,4,7.17,10.58,16162,1740
+334,Vistara,2,1,Premium Economy,Delhi - Bengaluru,4,7.17,13.75,16162,1740
+335,Vistara,0,1,Premium Economy,Delhi - Bengaluru,4,16.08,2.75,17414,1740
+336,Vistara,1,1,Premium Economy,Delhi - Bengaluru,4,9.5,8.25,17834,1740
+337,Vistara,1,1,Premium Economy,Delhi - Bengaluru,4,8.83,8.92,17834,1740
+338,Air India,0,1,Business,Delhi - Bengaluru,4,21.25,2.67,25000,1740
+339,Air India,0,1,Business,Delhi - Bengaluru,4,6.17,2.75,25000,1740
+340,Air India,0,1,Business,Delhi - Bengaluru,4,9.75,2.75,25000,1740
+341,Air India,0,1,Business,Delhi - Bengaluru,4,13.5,2.75,25000,1740
+342,Vistara,0,1,Business,Delhi - Bengaluru,4,20.67,2.67,25736,1740
+343,Vistara,0,1,Business,Delhi - Bengaluru,4,19.83,2.83,32456,1740
+344,Vistara,0,1,Business,Delhi - Bengaluru,4,8.17,2.67,33979,1740
+345,Vistara,0,1,Business,Delhi - Bengaluru,4,14.17,2.75,33979,1740
+346,Vistara,0,1,Business,Delhi - Bengaluru,4,16.08,2.75,33979,1740
+347,Vistara,0,1,Business,Delhi - Bengaluru,4,17.58,2.83,33979,1740
+348,Air India,1,1,Business,Delhi - Bengaluru,4,6.0,8.42,36754,1740
+349,Air India,1,1,Business,Delhi - Bengaluru,4,10.67,7.83,37634,1740
+350,Air India,1,1,Business,Delhi - Bengaluru,4,9.0,9.5,37634,1740
+351,Air India,1,1,Business,Delhi - Bengaluru,4,8.0,10.5,37634,1740
+352,Air India,1,1,Business,Delhi - Bengaluru,4,7.0,11.5,37634,1740
+353,Air India,1,1,Business,Delhi - Bengaluru,4,19.0,24.0,37634,1740
+354,Air India,2,1,Business,Delhi - Bengaluru,4,18.0,25.0,37634,1740
+355,Air India,1,1,Business,Delhi - Bengaluru,4,18.67,22.42,39546,1740
+356,Vistara,1,1,Business,Delhi - Bengaluru,4,17.17,25.33,41225,1740
+357,Air India,2,1,Business,Delhi - Bengaluru,4,15.08,27.92,43234,1740
+358,Air India,1,1,Business,Delhi - Bengaluru,4,16.92,6.42,44546,1740
+359,Air India,1,1,Business,Delhi - Bengaluru,4,20.25,27.08,44546,1740
+360,Air India,1,1,Business,Delhi - Bengaluru,4,18.5,25.33,50379,1740
+361,Vistara,1,1,Business,Delhi - Bengaluru,4,15.17,5.75,59705,1740
+362,Vistara,1,1,Business,Delhi - Bengaluru,4,10.33,7.42,59705,1740
+363,Air Asia,1,7,Economy,Delhi - Bengaluru,4,15.67,4.92,7422,1740
+364,Air Asia,1,7,Economy,Delhi - Bengaluru,4,9.42,5.25,7422,1740
+365,Air Asia,1,7,Economy,Delhi - Bengaluru,4,12.67,5.67,7422,1740
+366,Air Asia,1,7,Economy,Delhi - Bengaluru,4,14.5,6.08,7422,1740
+367,Air Asia,1,7,Economy,Delhi - Bengaluru,4,11.92,6.42,7422,1740
+368,Air Asia,1,7,Economy,Delhi - Bengaluru,4,4.92,6.58,7422,1740
+369,Air Asia,1,7,Economy,Delhi - Bengaluru,4,16.08,8.92,7422,1740
+370,Go First,0,7,Economy,Delhi - Bengaluru,4,5.75,2.58,7424,1740
+371,Go First,0,7,Economy,Delhi - Bengaluru,4,19.75,2.58,7424,1740
+372,Go First,1,7,Economy,Delhi - Bengaluru,4,15.5,6.75,7424,1740
+373,Go First,1,7,Economy,Delhi - Bengaluru,4,5.75,9.58,7424,1740
+374,Go First,1,7,Economy,Delhi - Bengaluru,4,21.5,10.25,7424,1740
+375,Go First,1,7,Economy,Delhi - Bengaluru,4,9.08,10.67,7424,1740
+376,Go First,1,7,Economy,Delhi - Bengaluru,4,20.5,11.25,7424,1740
+377,Go First,1,7,Economy,Delhi - Bengaluru,4,5.75,11.33,7424,1740
+378,Go First,1,7,Economy,Delhi - Bengaluru,4,8.75,12.08,7424,1740
+379,Go First,1,7,Economy,Delhi - Bengaluru,4,6.25,13.5,7424,1740
+380,Go First,1,7,Economy,Delhi - Bengaluru,4,9.08,15.0,7424,1740
+381,SpiceJet,0,7,Economy,Delhi - Bengaluru,4,5.75,2.58,7425,1740
+382,Vistara,0,7,Economy,Delhi - Bengaluru,4,8.17,2.67,7425,1740
+383,Vistara,0,7,Economy,Delhi - Bengaluru,4,20.67,2.67,7425,1740
+384,Air India,0,7,Economy,Delhi - Bengaluru,4,21.25,2.67,7425,1740
+385,Air India,0,7,Economy,Delhi - Bengaluru,4,6.17,2.75,7425,1740
+386,SpiceJet,0,7,Economy,Delhi - Bengaluru,4,21.83,2.75,7425,1740
+387,SpiceJet,0,7,Economy,Delhi - Bengaluru,4,22.67,2.75,7425,1740
+388,Vistara,0,7,Premium Economy,Delhi - Bengaluru,4,20.67,2.67,8622,1740
+389,Vistara,0,7,Premium Economy,Delhi - Bengaluru,4,19.83,2.83,8622,1740
+390,Vistara,0,7,Premium Economy,Delhi - Bengaluru,4,8.17,2.67,9630,1740
+391,Vistara,0,7,Premium Economy,Delhi - Bengaluru,4,16.08,2.75,9630,1740
+392,Vistara,0,7,Premium Economy,Delhi - Bengaluru,4,14.17,2.75,11198,1740
+393,Vistara,1,7,Premium Economy,Delhi - Bengaluru,4,6.0,4.75,12458,1740
+394,Vistara,1,7,Premium Economy,Delhi - Bengaluru,4,17.75,5.08,12458,1740
+395,Vistara,1,7,Premium Economy,Delhi - Bengaluru,4,8.83,8.92,12458,1740
+396,Vistara,1,7,Premium Economy,Delhi - Bengaluru,4,7.5,10.25,12458,1740
+397,Vistara,1,7,Premium Economy,Delhi - Bengaluru,4,21.67,11.17,12458,1740
+398,Vistara,1,7,Premium Economy,Delhi - Bengaluru,4,6.0,11.75,12458,1740
+399,Vistara,1,7,Premium Economy,Delhi - Bengaluru,4,8.83,12.08,12458,1740
+400,Vistara,1,7,Premium Economy,Delhi - Bengaluru,4,19.75,13.08,12458,1740
+401,Vistara,1,7,Premium Economy,Delhi - Bengaluru,4,21.67,13.08,12458,1740
+402,Vistara,1,7,Premium Economy,Delhi - Bengaluru,4,7.5,13.42,12458,1740
+403,Vistara,1,7,Premium Economy,Delhi - Bengaluru,4,18.92,13.92,12458,1740
+404,Vistara,1,7,Premium Economy,Delhi - Bengaluru,4,8.83,14.0,12458,1740
+405,Vistara,1,7,Premium Economy,Delhi - Bengaluru,4,6.0,14.92,12458,1740
+406,Vistara,1,7,Premium Economy,Delhi - Bengaluru,4,19.75,15.0,12458,1740
+407,Vistara,1,7,Premium Economy,Delhi - Bengaluru,4,17.75,15.08,12458,1740
+408,Vistara,1,7,Premium Economy,Delhi - Bengaluru,4,7.5,15.33,12458,1740
+409,Vistara,1,7,Premium Economy,Delhi - Bengaluru,4,18.92,15.83,12458,1740
+410,Vistara,1,7,Premium Economy,Delhi - Bengaluru,4,6.0,16.83,12458,1740
+411,Vistara,1,7,Premium Economy,Delhi - Bengaluru,4,17.75,17.0,12458,1740
+412,Vistara,1,7,Premium Economy,Delhi - Bengaluru,4,16.92,5.92,12794,1740
+413,Air India,0,7,Business,Delhi - Bengaluru,4,21.25,2.67,25000,1740
+414,Air India,0,7,Business,Delhi - Bengaluru,4,6.17,2.75,25000,1740
+415,Air India,0,7,Business,Delhi - Bengaluru,4,9.75,2.75,25000,1740
+416,Air India,0,7,Business,Delhi - Bengaluru,4,13.5,2.75,25000,1740
+417,Vistara,0,7,Business,Delhi - Bengaluru,4,20.67,2.67,25736,1740
+418,Vistara,0,7,Business,Delhi - Bengaluru,4,19.83,2.83,25736,1740
+419,Vistara,0,7,Business,Delhi - Bengaluru,4,8.17,2.67,33979,1740
+420,Vistara,0,7,Business,Delhi - Bengaluru,4,14.17,2.75,33979,1740
+421,Vistara,0,7,Business,Delhi - Bengaluru,4,17.58,2.83,33979,1740
+422,Air India,1,7,Business,Delhi - Bengaluru,4,18.5,25.33,36570,1740
+423,Air India,1,7,Business,Delhi - Bengaluru,4,6.0,8.42,36754,1740
+424,Air India,1,7,Business,Delhi - Bengaluru,4,10.67,7.83,37634,1740
+425,Air India,1,7,Business,Delhi - Bengaluru,4,9.0,9.5,37634,1740
+426,Air India,1,7,Business,Delhi - Bengaluru,4,8.0,10.5,37634,1740
+427,Air India,1,7,Business,Delhi - Bengaluru,4,7.0,11.5,37634,1740
+428,Air India,1,7,Business,Delhi - Bengaluru,4,20.0,11.92,37634,1740
+429,Air India,1,7,Business,Delhi - Bengaluru,4,19.0,12.92,37634,1740
+430,Air India,2,7,Business,Delhi - Bengaluru,4,18.0,13.92,37634,1740
+431,Air India,2,7,Business,Delhi - Bengaluru,4,15.08,16.83,37634,1740
+432,Air India,1,7,Business,Delhi - Bengaluru,4,10.67,21.25,37634,1740
+433,Air India,1,7,Business,Delhi - Bengaluru,4,9.0,22.92,37634,1740
+434,Air India,1,7,Business,Delhi - Bengaluru,4,20.0,23.0,37634,1740
+435,Air India,1,7,Business,Delhi - Bengaluru,4,8.0,23.92,37634,1740
+436,Air India,1,7,Business,Delhi - Bengaluru,4,19.0,24.0,37634,1740
+437,Air India,1,7,Business,Delhi - Bengaluru,4,7.0,24.92,37634,1740
+438,IndiGo,1,30,Economy,Delhi - Bengaluru,4,7.92,5.42,3170,1740
+439,IndiGo,1,30,Economy,Delhi - Bengaluru,4,13.67,6.17,3170,1740
+440,IndiGo,1,30,Economy,Delhi - Bengaluru,4,6.75,6.58,3170,1740
+441,IndiGo,1,30,Economy,Delhi - Bengaluru,4,7.42,7.42,3170,1740
+442,IndiGo,1,30,Economy,Delhi - Bengaluru,4,23.08,7.83,3170,1740
+443,IndiGo,1,30,Economy,Delhi - Bengaluru,4,9.67,8.5,3170,1740
+444,IndiGo,1,30,Economy,Delhi - Bengaluru,4,5.25,9.08,3170,1740
+445,IndiGo,1,30,Economy,Delhi - Bengaluru,4,23.08,9.17,3170,1740
+446,IndiGo,1,30,Economy,Delhi - Bengaluru,4,21.25,9.67,3170,1740
+447,IndiGo,1,30,Economy,Delhi - Bengaluru,4,9.67,9.92,3170,1740
+448,IndiGo,1,30,Economy,Delhi - Bengaluru,4,7.92,10.25,3170,1740
+449,IndiGo,1,30,Economy,Delhi - Bengaluru,4,21.83,10.33,3170,1740
+450,IndiGo,1,30,Economy,Delhi - Bengaluru,4,23.08,10.5,3170,1740
+451,IndiGo,1,30,Economy,Delhi - Bengaluru,4,21.25,11.0,3170,1740
+452,Air India,0,30,Economy,Delhi - Bengaluru,4,6.17,2.75,3482,1740
+453,Air India,1,30,Economy,Delhi - Bengaluru,4,6.08,9.25,3855,1740
+454,SpiceJet,1,30,Economy,Delhi - Bengaluru,4,6.25,14.92,3881,1740
+455,SpiceJet,1,30,Economy,Delhi - Bengaluru,4,18.42,26.75,3881,1740
+456,Air India,0,30,Economy,Delhi - Bengaluru,4,21.25,2.67,4007,1740
+457,Go First,1,30,Economy,Delhi - Bengaluru,4,2.67,5.0,4067,1740
+458,Air India,1,30,Economy,Delhi - Bengaluru,4,9.75,5.58,4170,1740
+459,IndiGo,0,30,Economy,Delhi - Bengaluru,4,6.17,2.67,4200,1740
+460,Air Asia,0,30,Economy,Delhi - Bengaluru,4,8.0,2.67,4200,1740
+461,SpiceJet,0,30,Economy,Delhi - Bengaluru,4,20.17,2.75,4200,1740
+462,Air Asia,0,30,Economy,Delhi - Bengaluru,4,9.58,2.83,4200,1740
+463,Vistara,0,30,Premium Economy,Delhi - Bengaluru,4,20.67,2.67,5576,1740
+464,Vistara,0,30,Premium Economy,Delhi - Bengaluru,4,6.25,2.75,5576,1740
+465,Vistara,0,30,Premium Economy,Delhi - Bengaluru,4,8.08,2.75,5576,1740
+466,Vistara,0,30,Premium Economy,Delhi - Bengaluru,4,16.08,2.75,5576,1740
+467,Vistara,0,30,Premium Economy,Delhi - Bengaluru,4,14.25,2.83,5576,1740
+468,Vistara,0,30,Premium Economy,Delhi - Bengaluru,4,17.58,2.83,5576,1740
+469,Vistara,0,30,Premium Economy,Delhi - Bengaluru,4,19.83,2.83,5576,1740
+470,Vistara,1,30,Premium Economy,Delhi - Bengaluru,4,17.17,23.92,13511,1740
+471,Vistara,1,30,Premium Economy,Delhi - Bengaluru,4,13.67,27.42,13511,1740
+472,Air India,0,30,Business,Delhi - Bengaluru,4,9.5,2.58,33464,1740
+473,Air India,0,30,Business,Delhi - Bengaluru,4,21.25,2.67,33464,1740
+474,Air India,0,30,Business,Delhi - Bengaluru,4,6.17,2.75,33464,1740
+475,Vistara,0,30,Business,Delhi - Bengaluru,4,20.67,2.67,33979,1740
+476,Vistara,0,30,Business,Delhi - Bengaluru,4,6.25,2.75,33979,1740
+477,Vistara,0,30,Business,Delhi - Bengaluru,4,8.08,2.75,33979,1740
+478,Vistara,0,30,Business,Delhi - Bengaluru,4,16.08,2.75,33979,1740
+479,Vistara,0,30,Business,Delhi - Bengaluru,4,14.25,2.83,33979,1740
+480,Vistara,0,30,Business,Delhi - Bengaluru,4,17.58,2.83,33979,1740
+481,Vistara,0,30,Business,Delhi - Bengaluru,4,19.83,2.83,33979,1740
+482,Air India,1,30,Business,Delhi - Bengaluru,4,7.08,14.67,43926,1740
+483,Air India,1,30,Business,Delhi - Bengaluru,4,10.67,7.83,46041,1740
+484,Air India,1,30,Business,Delhi - Bengaluru,4,8.0,10.5,46041,1740
+485,Air India,1,30,Business,Delhi - Bengaluru,4,7.0,11.5,46041,1740
+486,Air India,1,30,Business,Delhi - Bengaluru,4,20.0,15.17,46041,1740
+487,Air India,1,30,Business,Delhi - Bengaluru,4,19.0,16.17,46041,1740
+488,Air India,2,30,Business,Delhi - Bengaluru,4,15.08,20.08,46041,1740
+489,Air India,1,30,Business,Delhi - Bengaluru,4,20.0,22.5,46041,1740
+490,Air India,1,30,Business,Delhi - Bengaluru,4,19.0,23.5,46041,1740
+491,Air India,2,30,Business,Delhi - Bengaluru,4,15.08,27.42,46041,1740
+492,Air India,1,30,Business,Delhi - Bengaluru,4,9.75,5.58,46255,1740
+493,Air India,1,30,Business,Delhi - Bengaluru,4,6.08,9.25,46255,1740
+494,Air India,1,30,Business,Delhi - Bengaluru,4,18.67,22.42,49089,1740
+495,Vistara,1,30,Business,Delhi - Bengaluru,4,11.67,6.08,49177,1740
+496,Vistara,1,30,Business,Delhi - Bengaluru,4,11.67,7.58,49177,1740
+497,Air India,0,60,Economy,Delhi - Bengaluru,4,6.17,2.75,3170,1740
+498,Air India,0,60,Economy,Delhi - Bengaluru,4,13.5,2.75,3482,1740
+499,Go First,1,60,Economy,Delhi - Bengaluru,4,12.85,6.48,3812,1740
+500,Go First,1,60,Economy,Delhi - Bengaluru,4,12.85,7.65,3812,1740
+501,Air Asia,1,60,Economy,Delhi - Bengaluru,4,16.08,4.58,3864,1740
+502,Air Asia,1,60,Economy,Delhi - Bengaluru,4,15.42,5.25,3864,1740
+503,SpiceJet,1,60,Economy,Delhi - Bengaluru,4,6.25,14.92,3881,1740
+504,Air India,0,60,Economy,Delhi - Bengaluru,4,21.25,2.67,4007,1740
+505,Air India,0,60,Economy,Delhi - Bengaluru,4,9.75,2.75,4007,1740
+506,SpiceJet,1,60,Economy,Delhi - Bengaluru,4,8.67,7.75,4039,1740
+507,SpiceJet,1,60,Economy,Delhi - Bengaluru,4,17.75,22.67,4039,1740
+508,Air Asia,0,60,Economy,Delhi - Bengaluru,4,8.0,2.67,4200,1740
+509,SpiceJet,0,60,Economy,Delhi - Bengaluru,4,6.0,2.75,4200,1740
+510,SpiceJet,0,60,Economy,Delhi - Bengaluru,4,22.17,2.75,4200,1740
+511,IndiGo,0,60,Economy,Delhi - Bengaluru,4,2.5,2.83,4200,1740
+512,Air Asia,0,60,Economy,Delhi - Bengaluru,4,9.58,2.83,4200,1740
+513,IndiGo,0,60,Economy,Delhi - Bengaluru,4,14.83,2.83,4200,1740
+514,Air Asia,0,60,Economy,Delhi - Bengaluru,4,20.75,2.83,4200,1740
+515,Air Asia,0,60,Economy,Delhi - Bengaluru,4,21.42,2.83,4200,1740
+516,IndiGo,0,60,Economy,Delhi - Bengaluru,4,5.25,2.92,4200,1740
+517,IndiGo,0,60,Economy,Delhi - Bengaluru,4,10.92,2.92,4200,1740
+518,IndiGo,0,60,Economy,Delhi - Bengaluru,4,16.83,2.92,4200,1740
+519,IndiGo,0,60,Economy,Delhi - Bengaluru,4,22.25,2.92,4200,1740
+520,IndiGo,0,60,Economy,Delhi - Bengaluru,4,7.17,3.0,4200,1740
+521,IndiGo,0,60,Economy,Delhi - Bengaluru,4,7.92,3.0,4200,1740
+522,Vistara,0,60,Premium Economy,Delhi - Bengaluru,4,20.67,2.67,5576,1740
+523,Vistara,0,60,Premium Economy,Delhi - Bengaluru,4,6.25,2.75,5576,1740
+524,Vistara,0,60,Premium Economy,Delhi - Bengaluru,4,16.08,2.75,5576,1740
+525,Vistara,0,60,Premium Economy,Delhi - Bengaluru,4,14.25,2.83,5576,1740
+526,Vistara,0,60,Premium Economy,Delhi - Bengaluru,4,17.58,2.83,5576,1740
+527,Vistara,0,60,Premium Economy,Delhi - Bengaluru,4,19.83,2.83,5576,1740
+528,Vistara,1,60,Premium Economy,Delhi - Bengaluru,4,17.17,23.92,6838,1740
+529,Vistara,1,60,Premium Economy,Delhi - Bengaluru,4,13.67,27.42,6838,1740
+530,Vistara,0,60,Premium Economy,Delhi - Bengaluru,4,8.08,2.75,13494,1740
+531,Air India,0,60,Business,Delhi - Bengaluru,4,21.25,2.67,33464,1740
+532,Air India,0,60,Business,Delhi - Bengaluru,4,6.17,2.75,33464,1740
+533,Air India,0,60,Business,Delhi - Bengaluru,4,9.75,2.75,33464,1740
+534,Air India,0,60,Business,Delhi - Bengaluru,4,13.5,2.75,33464,1740
+535,Vistara,0,60,Business,Delhi - Bengaluru,4,20.67,2.67,33979,1740
+536,Vistara,0,60,Business,Delhi - Bengaluru,4,6.25,2.75,33979,1740
+537,Vistara,0,60,Business,Delhi - Bengaluru,4,8.08,2.75,33979,1740
+538,Vistara,0,60,Business,Delhi - Bengaluru,4,16.08,2.75,33979,1740
+539,Vistara,0,60,Business,Delhi - Bengaluru,4,14.25,2.83,33979,1740
+540,Vistara,0,60,Business,Delhi - Bengaluru,4,17.58,2.83,33979,1740
+541,Vistara,0,60,Business,Delhi - Bengaluru,4,19.83,2.83,33979,1740
+542,Air India,1,60,Business,Delhi - Bengaluru,4,11.92,24.92,42291,1740
+543,Vistara,1,60,Business,Delhi - Bengaluru,4,20.67,11.17,42457,1740
+544,Vistara,1,60,Business,Delhi - Bengaluru,4,20.67,12.17,42457,1740
+545,Vistara,1,60,Business,Delhi - Bengaluru,4,20.67,14.08,42457,1740
+546,Air India,1,60,Business,Delhi - Bengaluru,4,18.5,25.33,43926,1740
+547,Air India,1,60,Business,Delhi - Bengaluru,4,20.0,15.17,46041,1740
+548,Air India,1,60,Business,Delhi - Bengaluru,4,19.0,16.17,46041,1740
+549,Air India,2,60,Business,Delhi - Bengaluru,4,15.08,20.08,46041,1740
+550,Air India,1,60,Business,Delhi - Bengaluru,4,20.0,22.5,46041,1740
+551,Air India,1,60,Business,Delhi - Bengaluru,4,19.0,23.5,46041,1740
+552,Air India,1,60,Business,Delhi - Bengaluru,4,10.67,24.5,46041,1740
+553,Air India,1,60,Business,Delhi - Bengaluru,4,8.0,27.17,46041,1740
+554,Air India,2,60,Business,Delhi - Bengaluru,4,15.08,27.42,46041,1740
+555,Air India,1,60,Business,Delhi - Bengaluru,4,18.67,22.42,49089,1740
+556,Go First,0,1,Economy,Delhi - Hyderabad,5,10.75,2.0,5954,1253
+557,Go First,0,1,Economy,Delhi - Hyderabad,5,21.25,2.0,5954,1253
+558,Vistara,0,1,Economy,Delhi - Hyderabad,5,17.75,2.08,5955,1253
+559,SpiceJet,0,1,Economy,Delhi - Hyderabad,5,21.0,2.08,5955,1253
+560,IndiGo,0,1,Economy,Delhi - Hyderabad,5,22.0,2.08,5955,1253
+561,IndiGo,0,1,Economy,Delhi - Hyderabad,5,7.17,2.17,5955,1253
+562,IndiGo,0,1,Economy,Delhi - Hyderabad,5,17.25,2.17,5955,1253
+563,IndiGo,0,1,Economy,Delhi - Hyderabad,5,19.25,2.17,5955,1253
+564,Vistara,0,1,Economy,Delhi - Hyderabad,5,7.17,2.25,5955,1253
+565,IndiGo,0,1,Economy,Delhi - Hyderabad,5,11.58,2.25,5955,1253
+566,Vistara,0,1,Economy,Delhi - Hyderabad,5,14.75,2.25,5955,1253
+567,IndiGo,0,1,Economy,Delhi - Hyderabad,5,13.58,2.33,5955,1253
+568,Vistara,0,1,Economy,Delhi - Hyderabad,5,20.58,2.33,5955,1253
+569,IndiGo,0,1,Economy,Delhi - Hyderabad,5,9.75,2.42,5955,1253
+570,IndiGo,1,1,Economy,Delhi - Hyderabad,5,6.33,5.58,5955,1253
+571,IndiGo,1,1,Economy,Delhi - Hyderabad,5,12.33,5.83,5955,1253
+572,IndiGo,1,1,Economy,Delhi - Hyderabad,5,13.92,6.67,5955,1253
+573,IndiGo,1,1,Economy,Delhi - Hyderabad,5,9.92,10.67,5955,1253
+574,Air Asia,0,1,Economy,Delhi - Hyderabad,5,5.58,2.17,5956,1253
+575,Air Asia,0,1,Economy,Delhi - Hyderabad,5,16.08,2.25,5956,1253
+576,Air Asia,1,1,Economy,Delhi - Hyderabad,5,4.92,5.75,5956,1253
+577,Air Asia,1,1,Economy,Delhi - Hyderabad,5,8.0,9.5,5956,1253
+578,Air Asia,2,1,Economy,Delhi - Hyderabad,5,8.0,12.42,5956,1253
+579,Air Asia,2,1,Economy,Delhi - Hyderabad,5,4.75,12.75,5956,1253
+580,Air Asia,1,1,Economy,Delhi - Hyderabad,5,4.92,13.58,5956,1253
+581,Vistara,0,1,Premium Economy,Delhi - Hyderabad,5,7.17,2.25,6942,1253
+582,Vistara,0,1,Premium Economy,Delhi - Hyderabad,5,20.58,2.33,6942,1253
+583,Vistara,0,1,Premium Economy,Delhi - Hyderabad,5,14.75,2.25,7278,1253
+584,Vistara,0,1,Premium Economy,Delhi - Hyderabad,5,17.75,2.08,10638,1253
+585,Vistara,1,1,Premium Economy,Delhi - Hyderabad,5,21.67,10.83,11422,1253
+586,Vistara,1,1,Premium Economy,Delhi - Hyderabad,5,8.83,12.0,11422,1253
+587,Vistara,1,1,Premium Economy,Delhi - Hyderabad,5,19.75,12.75,11422,1253
+588,Vistara,1,1,Premium Economy,Delhi - Hyderabad,5,7.5,13.33,11422,1253
+589,Vistara,1,1,Premium Economy,Delhi - Hyderabad,5,18.92,13.58,11422,1253
+590,Vistara,1,1,Premium Economy,Delhi - Hyderabad,5,6.0,14.83,11422,1253
+591,Vistara,1,1,Premium Economy,Delhi - Hyderabad,5,8.83,23.67,11422,1253
+592,Vistara,1,1,Premium Economy,Delhi - Hyderabad,5,7.5,25.0,11422,1253
+593,Vistara,1,1,Premium Economy,Delhi - Hyderabad,5,6.0,26.5,11422,1253
+594,Vistara,1,1,Premium Economy,Delhi - Hyderabad,5,7.5,5.42,11702,1253
+595,Vistara,1,1,Premium Economy,Delhi - Hyderabad,5,6.0,6.92,11702,1253
+596,Vistara,1,1,Premium Economy,Delhi - Hyderabad,5,21.67,15.25,11702,1253
+597,Vistara,1,1,Premium Economy,Delhi - Hyderabad,5,19.75,17.17,11702,1253
+598,Vistara,1,1,Premium Economy,Delhi - Hyderabad,5,18.92,18.0,11702,1253
+599,Vistara,1,1,Premium Economy,Delhi - Hyderabad,5,21.67,23.17,16630,1253
+600,Vistara,1,1,Premium Economy,Delhi - Hyderabad,5,19.75,25.08,16630,1253
+601,Vistara,1,1,Premium Economy,Delhi - Hyderabad,5,18.92,25.92,16630,1253
+602,Vistara,2,1,Premium Economy,Delhi - Hyderabad,5,17.17,15.33,16677,1253
+603,Vistara,1,1,Premium Economy,Delhi - Hyderabad,5,9.5,11.33,16798,1253
+604,Vistara,1,1,Premium Economy,Delhi - Hyderabad,5,9.5,23.0,16798,1253
+605,Vistara,1,1,Premium Economy,Delhi - Hyderabad,5,9.5,27.42,17078,1253
+606,Air India,0,1,Business,Delhi - Hyderabad,5,8.33,2.17,20000,1253
+607,Air India,0,1,Business,Delhi - Hyderabad,5,9.75,2.17,20000,1253
+608,Air India,0,1,Business,Delhi - Hyderabad,5,21.42,2.17,20000,1253
+609,Vistara,0,1,Business,Delhi - Hyderabad,5,7.17,2.25,25064,1253
+610,Vistara,0,1,Business,Delhi - Hyderabad,5,20.58,2.33,25064,1253
+611,Air India,2,1,Business,Delhi - Hyderabad,5,16.67,27.42,33022,1253
+612,Air India,1,1,Business,Delhi - Hyderabad,5,10.67,10.08,34634,1253
+613,Air India,1,1,Business,Delhi - Hyderabad,5,9.0,11.75,34634,1253
+614,Air India,1,1,Business,Delhi - Hyderabad,5,19.0,11.83,34634,1253
+615,Air India,1,1,Business,Delhi - Hyderabad,5,10.67,11.92,34634,1253
+616,Air India,1,1,Business,Delhi - Hyderabad,5,8.0,12.75,34634,1253
+617,Air India,2,1,Business,Delhi - Hyderabad,5,18.0,12.83,34634,1253
+618,Air India,1,1,Business,Delhi - Hyderabad,5,9.0,13.58,34634,1253
+619,Air India,1,1,Business,Delhi - Hyderabad,5,7.0,13.75,34634,1253
+620,Air India,1,1,Business,Delhi - Hyderabad,5,8.0,14.58,34634,1253
+621,Air India,1,1,Business,Delhi - Hyderabad,5,7.0,15.58,34634,1253
+622,Air India,1,1,Business,Delhi - Hyderabad,5,10.67,20.17,34634,1253
+623,Air India,1,1,Business,Delhi - Hyderabad,5,9.0,21.83,34634,1253
+624,Air India,1,1,Business,Delhi - Hyderabad,5,8.0,22.83,34634,1253
+625,Air India,1,1,Business,Delhi - Hyderabad,5,7.0,23.83,34634,1253
+626,Air India,2,1,Business,Delhi - Hyderabad,5,21.25,15.17,36546,1253
+627,Air India,2,1,Business,Delhi - Hyderabad,5,13.5,22.92,36546,1253
+628,Air India,2,1,Business,Delhi - Hyderabad,5,9.75,26.67,36546,1253
+629,Air India,2,1,Business,Delhi - Hyderabad,5,6.17,30.25,36546,1253
+630,Vistara,0,1,Business,Delhi - Hyderabad,5,17.75,2.08,37384,1253
+631,Go First,0,7,Economy,Delhi - Hyderabad,5,10.75,2.0,5954,1253
+632,Go First,0,7,Economy,Delhi - Hyderabad,5,21.25,2.0,5954,1253
+633,Vistara,0,7,Economy,Delhi - Hyderabad,5,17.75,2.08,5955,1253
+634,SpiceJet,0,7,Economy,Delhi - Hyderabad,5,21.0,2.08,5955,1253
+635,IndiGo,0,7,Economy,Delhi - Hyderabad,5,22.0,2.08,5955,1253
+636,IndiGo,0,7,Economy,Delhi - Hyderabad,5,7.17,2.17,5955,1253
+637,IndiGo,0,7,Economy,Delhi - Hyderabad,5,17.25,2.17,5955,1253
+638,IndiGo,0,7,Economy,Delhi - Hyderabad,5,19.25,2.17,5955,1253
+639,Vistara,0,7,Economy,Delhi - Hyderabad,5,7.17,2.25,5955,1253
+640,IndiGo,0,7,Economy,Delhi - Hyderabad,5,11.58,2.25,5955,1253
+641,IndiGo,0,7,Economy,Delhi - Hyderabad,5,5.92,2.33,5955,1253
+642,Vistara,0,7,Economy,Delhi - Hyderabad,5,20.58,2.33,5955,1253
+643,IndiGo,0,7,Economy,Delhi - Hyderabad,5,9.75,2.42,5955,1253
+644,IndiGo,1,7,Economy,Delhi - Hyderabad,5,12.33,5.83,5955,1253
+645,IndiGo,1,7,Economy,Delhi - Hyderabad,5,9.5,8.5,5955,1253
+646,SpiceJet,1,7,Economy,Delhi - Hyderabad,5,6.83,9.25,5955,1253
+647,IndiGo,1,7,Economy,Delhi - Hyderabad,5,8.0,10.17,5955,1253
+648,IndiGo,1,7,Economy,Delhi - Hyderabad,5,9.92,10.67,5955,1253
+649,SpiceJet,1,7,Economy,Delhi - Hyderabad,5,5.92,16.25,5955,1253
+650,Air Asia,0,7,Economy,Delhi - Hyderabad,5,5.58,2.17,5956,1253
+651,Air Asia,0,7,Economy,Delhi - Hyderabad,5,16.08,2.25,5956,1253
+652,Air Asia,1,7,Economy,Delhi - Hyderabad,5,4.92,5.75,5956,1253
+653,Air Asia,1,7,Economy,Delhi - Hyderabad,5,8.0,9.5,5956,1253
+654,Air Asia,2,7,Economy,Delhi - Hyderabad,5,8.0,12.42,5956,1253
+655,Air Asia,2,7,Economy,Delhi - Hyderabad,5,4.75,12.75,5956,1253
+656,Vistara,0,7,Premium Economy,Delhi - Hyderabad,5,17.75,2.08,6942,1253
+657,Vistara,0,7,Premium Economy,Delhi - Hyderabad,5,7.17,2.25,6942,1253
+658,Vistara,0,7,Premium Economy,Delhi - Hyderabad,5,14.75,2.25,6942,1253
+659,Vistara,0,7,Premium Economy,Delhi - Hyderabad,5,20.58,2.33,6942,1253
+660,Vistara,1,7,Premium Economy,Delhi - Hyderabad,5,7.5,5.42,11422,1253
+661,Vistara,1,7,Premium Economy,Delhi - Hyderabad,5,6.0,6.92,11422,1253
+662,Vistara,1,7,Premium Economy,Delhi - Hyderabad,5,21.67,10.83,11422,1253
+663,Vistara,1,7,Premium Economy,Delhi - Hyderabad,5,8.83,12.0,11422,1253
+664,Vistara,1,7,Premium Economy,Delhi - Hyderabad,5,19.75,12.75,11422,1253
+665,Vistara,1,7,Premium Economy,Delhi - Hyderabad,5,7.5,13.33,11422,1253
+666,Vistara,1,7,Premium Economy,Delhi - Hyderabad,5,18.92,13.58,11422,1253
+667,Vistara,1,7,Premium Economy,Delhi - Hyderabad,5,17.75,14.75,11422,1253
+668,Vistara,1,7,Premium Economy,Delhi - Hyderabad,5,6.0,14.83,11422,1253
+669,Vistara,1,7,Premium Economy,Delhi - Hyderabad,5,21.67,15.25,11422,1253
+670,Vistara,1,7,Premium Economy,Delhi - Hyderabad,5,19.75,17.17,11422,1253
+671,Vistara,1,7,Premium Economy,Delhi - Hyderabad,5,18.92,18.0,11422,1253
+672,Vistara,1,7,Premium Economy,Delhi - Hyderabad,5,17.75,19.17,11422,1253
+673,Vistara,1,7,Premium Economy,Delhi - Hyderabad,5,21.67,23.17,11422,1253
+674,Vistara,1,7,Premium Economy,Delhi - Hyderabad,5,8.83,23.67,11422,1253
+675,Vistara,1,7,Premium Economy,Delhi - Hyderabad,5,7.5,25.0,11422,1253
+676,Vistara,1,7,Premium Economy,Delhi - Hyderabad,5,19.75,25.08,11422,1253
+677,Vistara,1,7,Premium Economy,Delhi - Hyderabad,5,18.92,25.92,11422,1253
+678,Vistara,1,7,Premium Economy,Delhi - Hyderabad,5,6.0,26.5,11422,1253
+679,Vistara,1,7,Premium Economy,Delhi - Hyderabad,5,10.33,10.5,11758,1253
+680,Vistara,1,7,Premium Economy,Delhi - Hyderabad,5,9.5,11.33,11758,1253
+681,Vistara,0,7,Business,Delhi - Hyderabad,5,17.75,2.08,6942,1253
+682,Vistara,0,7,Business,Delhi - Hyderabad,5,7.17,2.25,6942,1253
+683,Vistara,0,7,Business,Delhi - Hyderabad,5,14.75,2.25,6942,1253
+684,Vistara,0,7,Business,Delhi - Hyderabad,5,20.58,2.33,6942,1253
+685,Vistara,1,7,Business,Delhi - Hyderabad,5,7.5,5.42,11422,1253
+686,Vistara,1,7,Business,Delhi - Hyderabad,5,6.0,6.92,11422,1253
+687,Vistara,1,7,Business,Delhi - Hyderabad,5,21.67,10.83,11422,1253
+688,Vistara,1,7,Business,Delhi - Hyderabad,5,8.83,12.0,11422,1253
+689,Vistara,1,7,Business,Delhi - Hyderabad,5,19.75,12.75,11422,1253
+690,Vistara,1,7,Business,Delhi - Hyderabad,5,7.5,13.33,11422,1253
+691,Vistara,1,7,Business,Delhi - Hyderabad,5,18.92,13.58,11422,1253
+692,Vistara,1,7,Business,Delhi - Hyderabad,5,17.75,14.75,11422,1253
+693,Vistara,1,7,Business,Delhi - Hyderabad,5,6.0,14.83,11422,1253
+694,Vistara,1,7,Business,Delhi - Hyderabad,5,21.67,15.25,11422,1253
+695,Vistara,1,7,Business,Delhi - Hyderabad,5,19.75,17.17,11422,1253
+696,Vistara,1,7,Business,Delhi - Hyderabad,5,18.92,18.0,11422,1253
+697,Vistara,1,7,Business,Delhi - Hyderabad,5,17.75,19.17,11422,1253
+698,Vistara,1,7,Business,Delhi - Hyderabad,5,21.67,23.17,11422,1253
+699,Vistara,1,7,Business,Delhi - Hyderabad,5,8.83,23.67,11422,1253
+700,Vistara,1,7,Business,Delhi - Hyderabad,5,7.5,25.0,11422,1253
+701,Vistara,1,7,Business,Delhi - Hyderabad,5,19.75,25.08,11422,1253
+702,Vistara,1,7,Business,Delhi - Hyderabad,5,18.92,25.92,11422,1253
+703,Vistara,1,7,Business,Delhi - Hyderabad,5,6.0,26.5,11422,1253
+704,Vistara,1,7,Business,Delhi - Hyderabad,5,10.33,10.5,11758,1253
+705,Vistara,1,7,Business,Delhi - Hyderabad,5,9.5,11.33,11758,1253
+706,Air India,0,30,Economy,Delhi - Hyderabad,5,9.75,2.17,3015,1253
+707,Air India,0,30,Economy,Delhi - Hyderabad,5,8.17,2.33,3015,1253
+708,IndiGo,1,30,Economy,Delhi - Hyderabad,5,7.0,4.33,3015,1253
+709,IndiGo,1,30,Economy,Delhi - Hyderabad,5,5.5,5.5,3015,1253
+710,IndiGo,1,30,Economy,Delhi - Hyderabad,5,5.5,7.17,3015,1253
+711,IndiGo,1,30,Economy,Delhi - Hyderabad,5,7.0,10.0,3015,1253
+712,Go First,0,30,Economy,Delhi - Hyderabad,5,7.33,2.17,3120,1253
+713,IndiGo,0,30,Economy,Delhi - Hyderabad,5,23.08,2.17,3120,1253
+714,IndiGo,0,30,Economy,Delhi - Hyderabad,5,6.75,2.25,3120,1253
+715,IndiGo,0,30,Economy,Delhi - Hyderabad,5,7.92,2.25,3120,1253
+716,IndiGo,0,30,Economy,Delhi - Hyderabad,5,9.67,2.25,3120,1253
+717,IndiGo,0,30,Economy,Delhi - Hyderabad,5,13.0,2.25,3120,1253
+718,Go First,0,30,Economy,Delhi - Hyderabad,5,19.58,2.25,3120,1253
+719,IndiGo,0,30,Economy,Delhi - Hyderabad,5,21.25,2.25,3120,1253
+720,IndiGo,0,30,Economy,Delhi - Hyderabad,5,19.5,2.33,3120,1253
+721,Air Asia,1,30,Economy,Delhi - Hyderabad,5,16.25,4.17,3120,1253
+722,Vistara,0,30,Economy,Delhi - Hyderabad,5,17.67,2.17,3169,1253
+723,Vistara,0,30,Economy,Delhi - Hyderabad,5,14.75,2.25,3169,1253
+724,Vistara,0,30,Economy,Delhi - Hyderabad,5,7.08,2.33,3169,1253
+725,Vistara,0,30,Economy,Delhi - Hyderabad,5,20.58,2.33,3169,1253
+726,SpiceJet,0,30,Economy,Delhi - Hyderabad,5,17.0,2.08,3199,1253
+727,IndiGo,0,30,Economy,Delhi - Hyderabad,5,17.75,2.25,3435,1253
+728,Air India,0,30,Economy,Delhi - Hyderabad,5,21.17,2.42,3435,1253
+729,Air India,1,30,Economy,Delhi - Hyderabad,5,6.08,27.83,3821,1253
+730,Air India,1,30,Economy,Delhi - Hyderabad,5,20.67,13.25,4136,1253
+731,Vistara,0,30,Premium Economy,Delhi - Hyderabad,5,17.67,2.17,6942,1253
+732,Vistara,0,30,Premium Economy,Delhi - Hyderabad,5,14.75,2.25,6942,1253
+733,Vistara,0,30,Premium Economy,Delhi - Hyderabad,5,7.08,2.33,6942,1253
+734,Vistara,0,30,Premium Economy,Delhi - Hyderabad,5,20.58,2.33,6942,1253
+735,Air India,0,30,Business,Delhi - Hyderabad,5,9.75,2.17,23944,1253
+736,Vistara,0,30,Business,Delhi - Hyderabad,5,14.75,2.25,23944,1253
+737,Air India,0,30,Business,Delhi - Hyderabad,5,8.17,2.33,23944,1253
+738,Vistara,0,30,Business,Delhi - Hyderabad,5,20.58,2.33,23944,1253
+739,Air India,0,30,Business,Delhi - Hyderabad,5,21.17,2.42,23944,1253
+740,Vistara,0,30,Business,Delhi - Hyderabad,5,17.67,2.17,29544,1253
+741,Vistara,0,30,Business,Delhi - Hyderabad,5,7.08,2.33,37384,1253
+742,Air India,1,30,Business,Delhi - Hyderabad,5,20.0,25.58,41001,1253
+743,Air India,1,30,Business,Delhi - Hyderabad,5,19.0,26.58,41001,1253
+744,Vistara,1,30,Business,Delhi - Hyderabad,5,11.67,9.25,47721,1253
+745,Vistara,1,30,Business,Delhi - Hyderabad,5,9.5,11.42,47721,1253
+746,Vistara,1,30,Business,Delhi - Hyderabad,5,11.67,20.0,47721,1253
+747,Vistara,1,30,Business,Delhi - Hyderabad,5,9.5,22.17,47721,1253
+748,Vistara,1,30,Business,Delhi - Hyderabad,5,20.67,11.0,48505,1253
+749,Vistara,1,30,Business,Delhi - Hyderabad,5,20.67,24.25,48505,1253
+750,Vistara,1,30,Business,Delhi - Hyderabad,5,16.92,14.75,48841,1253
+751,Air India,1,30,Business,Delhi - Hyderabad,5,6.83,14.42,50545,1253
+752,Air India,1,30,Business,Delhi - Hyderabad,5,20.25,25.0,50545,1253
+753,Air India,1,30,Business,Delhi - Hyderabad,5,16.92,28.33,50545,1253
+754,Vistara,1,30,Business,Delhi - Hyderabad,5,21.67,10.0,53321,1253
+755,Vistara,1,30,Business,Delhi - Hyderabad,5,21.67,23.25,53321,1253
+756,Vistara,1,30,Business,Delhi - Hyderabad,5,8.83,12.08,55561,1253
+757,Vistara,1,30,Business,Delhi - Hyderabad,5,7.5,13.42,55561,1253
+758,Vistara,1,30,Business,Delhi - Hyderabad,5,17.75,13.92,55561,1253
+759,Vistara,1,30,Business,Delhi - Hyderabad,5,8.83,22.83,55561,1253
+760,Air India,0,60,Economy,Delhi - Hyderabad,5,9.75,2.17,2518,1253
+761,Air India,0,60,Economy,Delhi - Hyderabad,5,8.17,2.33,2518,1253
+762,Air India,0,60,Economy,Delhi - Hyderabad,5,21.17,2.42,2518,1253
+763,Go First,0,60,Economy,Delhi - Hyderabad,5,7.33,2.17,3120,1253
+764,IndiGo,0,60,Economy,Delhi - Hyderabad,5,11.58,2.25,3120,1253
+765,IndiGo,0,60,Economy,Delhi - Hyderabad,5,13.83,2.25,3120,1253
+766,IndiGo,0,60,Economy,Delhi - Hyderabad,5,17.42,2.25,3120,1253
+767,IndiGo,0,60,Economy,Delhi - Hyderabad,5,19.0,2.25,3120,1253
+768,Go First,0,60,Economy,Delhi - Hyderabad,5,19.58,2.25,3120,1253
+769,IndiGo,0,60,Economy,Delhi - Hyderabad,5,23.08,2.25,3120,1253
+770,IndiGo,0,60,Economy,Delhi - Hyderabad,5,7.0,2.33,3120,1253
+771,IndiGo,0,60,Economy,Delhi - Hyderabad,5,8.67,2.33,3120,1253
+772,IndiGo,0,60,Economy,Delhi - Hyderabad,5,20.75,2.42,3120,1253
+773,Air Asia,1,60,Economy,Delhi - Hyderabad,5,16.25,4.17,3120,1253
+774,Vistara,0,60,Economy,Delhi - Hyderabad,5,17.67,2.17,3269,1253
+775,Vistara,0,60,Economy,Delhi - Hyderabad,5,14.75,2.25,3269,1253
+776,Vistara,0,60,Economy,Delhi - Hyderabad,5,7.08,2.33,3269,1253
+777,Vistara,0,60,Economy,Delhi - Hyderabad,5,20.58,2.33,3269,1253
+778,Go First,1,60,Economy,Delhi - Hyderabad,5,9.0,6.5,4013,1253
+779,Go First,1,60,Economy,Delhi - Hyderabad,5,6.33,9.17,4013,1253
+780,Go First,1,60,Economy,Delhi - Hyderabad,5,15.0,5.0,4050,1253
+781,Go First,1,60,Economy,Delhi - Hyderabad,5,14.33,5.67,4050,1253
+782,Go First,1,60,Economy,Delhi - Hyderabad,5,10.5,9.5,4050,1253
+783,Air India,1,60,Economy,Delhi - Hyderabad,5,20.67,13.25,4076,1253
+784,Air India,1,60,Economy,Delhi - Hyderabad,5,9.75,24.17,4076,1253
+785,Vistara,0,60,Premium Economy,Delhi - Hyderabad,5,17.67,2.17,6942,1253
+786,Vistara,0,60,Premium Economy,Delhi - Hyderabad,5,14.75,2.25,6942,1253
+787,Vistara,0,60,Premium Economy,Delhi - Hyderabad,5,7.08,2.33,6942,1253
+788,Vistara,0,60,Premium Economy,Delhi - Hyderabad,5,20.58,2.33,6942,1253
+789,Air India,0,60,Business,Delhi - Hyderabad,5,9.75,2.17,23944,1253
+790,Vistara,0,60,Business,Delhi - Hyderabad,5,17.67,2.17,23944,1253
+791,Vistara,0,60,Business,Delhi - Hyderabad,5,14.75,2.25,23944,1253
+792,Vistara,0,60,Business,Delhi - Hyderabad,5,7.08,2.33,23944,1253
+793,Air India,0,60,Business,Delhi - Hyderabad,5,8.17,2.33,23944,1253
+794,Vistara,0,60,Business,Delhi - Hyderabad,5,20.58,2.33,23944,1253
+795,Air India,0,60,Business,Delhi - Hyderabad,5,21.17,2.42,23944,1253
+796,Vistara,1,60,Business,Delhi - Hyderabad,5,20.67,11.0,41001,1253
+797,Air India,1,60,Business,Delhi - Hyderabad,5,20.0,11.25,41001,1253
+798,Air India,1,60,Business,Delhi - Hyderabad,5,19.0,12.25,41001,1253
+799,Air India,2,60,Business,Delhi - Hyderabad,5,15.08,16.17,41001,1253
+800,Air India,1,60,Business,Delhi - Hyderabad,5,10.67,20.58,41001,1253
+801,Air India,1,60,Business,Delhi - Hyderabad,5,8.0,23.25,41001,1253
+802,Air India,1,60,Business,Delhi - Hyderabad,5,7.0,24.25,41001,1253
+803,Vistara,1,60,Business,Delhi - Hyderabad,5,20.67,24.25,41001,1253
+804,Air India,1,60,Business,Delhi - Hyderabad,5,20.0,25.58,41001,1253
+805,Vistara,1,60,Business,Delhi - Hyderabad,5,11.67,9.25,47721,1253
+806,Vistara,1,60,Business,Delhi - Hyderabad,5,9.5,11.42,47721,1253
+807,Vistara,1,60,Business,Delhi - Hyderabad,5,11.67,20.0,47721,1253
+808,Vistara,1,60,Business,Delhi - Hyderabad,5,9.5,22.17,47721,1253
+809,Vistara,1,60,Business,Delhi - Hyderabad,5,16.92,14.75,48841,1253
+810,Air India,1,60,Business,Delhi - Hyderabad,5,6.83,14.42,50545,1253
+811,Air India,1,60,Business,Delhi - Hyderabad,5,20.25,25.0,50545,1253
+812,Air India,1,60,Business,Delhi - Hyderabad,5,16.92,28.33,50545,1253
+813,Vistara,1,60,Business,Delhi - Hyderabad,5,12.83,8.08,53321,1253
+814,Air Asia,1,1,Economy,Delhi - Kolkata,6,18.67,6.92,5951,1304
+815,Air Asia,1,1,Economy,Delhi - Kolkata,6,18.67,7.0,5951,1304
+816,Air Asia,1,1,Economy,Delhi - Kolkata,6,16.25,9.33,5951,1304
+817,Air Asia,1,1,Economy,Delhi - Kolkata,6,16.25,9.42,5951,1304
+818,Air Asia,1,1,Economy,Delhi - Kolkata,6,5.58,11.75,5951,1304
+819,Air Asia,1,1,Economy,Delhi - Kolkata,6,8.0,13.33,5951,1304
+820,Air Asia,1,1,Economy,Delhi - Kolkata,6,18.67,13.58,5951,1304
+821,Go First,0,1,Economy,Delhi - Kolkata,6,5.75,2.08,5954,1304
+822,SpiceJet,0,1,Economy,Delhi - Kolkata,6,5.75,2.33,5954,1304
+823,SpiceJet,1,1,Economy,Delhi - Kolkata,6,7.5,6.33,5954,1304
+824,SpiceJet,1,1,Economy,Delhi - Kolkata,6,7.5,9.33,5954,1304
+825,Go First,1,1,Economy,Delhi - Kolkata,6,19.75,12.33,5954,1304
+826,Go First,1,1,Economy,Delhi - Kolkata,6,5.75,14.17,5954,1304
+827,IndiGo,1,1,Economy,Delhi - Kolkata,6,7.67,4.75,5955,1304
+828,IndiGo,1,1,Economy,Delhi - Kolkata,6,8.92,5.42,5955,1304
+829,IndiGo,1,1,Economy,Delhi - Kolkata,6,14.33,5.5,5955,1304
+830,IndiGo,1,1,Economy,Delhi - Kolkata,6,9.92,6.25,5955,1304
+831,IndiGo,1,1,Economy,Delhi - Kolkata,6,12.92,6.5,5955,1304
+832,IndiGo,1,1,Economy,Delhi - Kolkata,6,6.5,7.83,5955,1304
+833,IndiGo,1,1,Economy,Delhi - Kolkata,6,13.92,8.83,5955,1304
+834,IndiGo,1,1,Economy,Delhi - Kolkata,6,5.83,10.33,5955,1304
+835,IndiGo,1,1,Economy,Delhi - Kolkata,6,8.92,10.92,5955,1304
+836,Air Asia,0,1,Economy,Delhi - Kolkata,6,4.92,2.08,5956,1304
+837,Vistara,0,1,Economy,Delhi - Kolkata,6,6.33,2.0,6060,1304
+838,Vistara,0,1,Economy,Delhi - Kolkata,6,7.5,2.08,6060,1304
+839,Vistara,0,1,Premium Economy,Delhi - Kolkata,6,6.33,2.0,6998,1304
+840,Vistara,0,1,Premium Economy,Delhi - Kolkata,6,7.5,2.08,8958,1304
+841,Vistara,0,1,Premium Economy,Delhi - Kolkata,6,20.5,2.25,10638,1304
+842,Vistara,1,1,Premium Economy,Delhi - Kolkata,6,18.0,15.25,12684,1304
+843,Vistara,1,1,Premium Economy,Delhi - Kolkata,6,6.67,26.58,12684,1304
+844,Vistara,0,1,Premium Economy,Delhi - Kolkata,6,14.83,2.08,12934,1304
+845,Vistara,0,1,Premium Economy,Delhi - Kolkata,6,17.5,2.08,12934,1304
+846,Vistara,2,1,Premium Economy,Delhi - Kolkata,6,21.67,11.58,15118,1304
+847,Vistara,2,1,Premium Economy,Delhi - Kolkata,6,19.75,13.5,15118,1304
+848,Vistara,2,1,Premium Economy,Delhi - Kolkata,6,18.92,14.33,15118,1304
+849,Vistara,2,1,Premium Economy,Delhi - Kolkata,6,8.83,24.42,15118,1304
+850,Vistara,2,1,Premium Economy,Delhi - Kolkata,6,7.5,25.75,15118,1304
+851,Vistara,2,1,Premium Economy,Delhi - Kolkata,6,6.0,27.25,15118,1304
+852,Vistara,3,1,Premium Economy,Delhi - Kolkata,6,17.75,15.5,22232,1304
+853,Vistara,3,1,Premium Economy,Delhi - Kolkata,6,8.17,25.08,23666,1304
+854,Vistara,3,1,Premium Economy,Delhi - Kolkata,6,8.17,25.08,23666,1304
+855,Vistara,3,1,Premium Economy,Delhi - Kolkata,6,8.17,25.08,23666,1304
+856,Vistara,2,1,Premium Economy,Delhi - Kolkata,6,10.33,22.92,23910,1304
+857,Vistara,2,1,Premium Economy,Delhi - Kolkata,6,9.5,23.75,23910,1304
+858,Vistara,3,1,Premium Economy,Delhi - Kolkata,6,17.58,15.67,25962,1304
+859,Vistara,3,1,Premium Economy,Delhi - Kolkata,6,16.08,17.17,29882,1304
+860,Vistara,3,1,Premium Economy,Delhi - Kolkata,6,16.08,17.17,29882,1304
+861,Vistara,2,1,Premium Economy,Delhi - Kolkata,6,17.75,15.5,29958,1304
+862,Vistara,2,1,Premium Economy,Delhi - Kolkata,6,16.92,16.33,29958,1304
+863,Vistara,3,1,Premium Economy,Delhi - Kolkata,6,14.17,19.08,36378,1304
+864,Vistara,0,1,Business,Delhi - Kolkata,6,6.33,2.0,6998,1304
+865,Vistara,0,1,Business,Delhi - Kolkata,6,7.5,2.08,8958,1304
+866,Vistara,0,1,Business,Delhi - Kolkata,6,20.5,2.25,10638,1304
+867,Vistara,1,1,Business,Delhi - Kolkata,6,18.0,15.25,12684,1304
+868,Vistara,1,1,Business,Delhi - Kolkata,6,6.67,26.58,12684,1304
+869,Vistara,0,1,Business,Delhi - Kolkata,6,14.83,2.08,12934,1304
+870,Vistara,0,1,Business,Delhi - Kolkata,6,17.5,2.08,12934,1304
+871,Vistara,2,1,Business,Delhi - Kolkata,6,21.67,11.58,15118,1304
+872,Vistara,2,1,Business,Delhi - Kolkata,6,19.75,13.5,15118,1304
+873,Vistara,2,1,Business,Delhi - Kolkata,6,18.92,14.33,15118,1304
+874,Vistara,2,1,Business,Delhi - Kolkata,6,8.83,24.42,15118,1304
+875,Vistara,2,1,Business,Delhi - Kolkata,6,7.5,25.75,15118,1304
+876,Vistara,2,1,Business,Delhi - Kolkata,6,6.0,27.25,15118,1304
+877,Vistara,3,1,Business,Delhi - Kolkata,6,17.75,15.5,22232,1304
+878,Vistara,3,1,Business,Delhi - Kolkata,6,8.17,25.08,23666,1304
+879,Vistara,3,1,Business,Delhi - Kolkata,6,8.17,25.08,23666,1304
+880,Vistara,3,1,Business,Delhi - Kolkata,6,8.17,25.08,23666,1304
+881,Vistara,2,1,Business,Delhi - Kolkata,6,10.33,22.92,23910,1304
+882,Vistara,2,1,Business,Delhi - Kolkata,6,9.5,23.75,23910,1304
+883,Vistara,3,1,Business,Delhi - Kolkata,6,17.58,15.67,25962,1304
+884,Vistara,3,1,Business,Delhi - Kolkata,6,16.08,17.17,29882,1304
+885,Vistara,3,1,Business,Delhi - Kolkata,6,16.08,17.17,29882,1304
+886,Vistara,2,1,Business,Delhi - Kolkata,6,17.75,15.5,29958,1304
+887,Vistara,2,1,Business,Delhi - Kolkata,6,16.92,16.33,29958,1304
+888,Vistara,3,1,Business,Delhi - Kolkata,6,14.17,19.08,36378,1304
+889,Air Asia,1,7,Economy,Delhi - Kolkata,6,18.67,6.92,5951,1304
+890,Air Asia,1,7,Economy,Delhi - Kolkata,6,18.67,7.0,5951,1304
+891,Air Asia,1,7,Economy,Delhi - Kolkata,6,5.58,11.75,5951,1304
+892,Air Asia,1,7,Economy,Delhi - Kolkata,6,8.0,13.33,5951,1304
+893,Air Asia,1,7,Economy,Delhi - Kolkata,6,18.67,13.58,5951,1304
+894,Go First,0,7,Economy,Delhi - Kolkata,6,5.75,2.08,5954,1304
+895,Go First,0,7,Economy,Delhi - Kolkata,6,21.0,2.08,5954,1304
+896,SpiceJet,0,7,Economy,Delhi - Kolkata,6,5.75,2.33,5954,1304
+897,SpiceJet,0,7,Economy,Delhi - Kolkata,6,20.67,2.42,5954,1304
+898,Go First,1,7,Economy,Delhi - Kolkata,6,17.5,4.42,5954,1304
+899,SpiceJet,1,7,Economy,Delhi - Kolkata,6,8.67,5.17,5954,1304
+900,Go First,1,7,Economy,Delhi - Kolkata,6,12.58,5.17,5954,1304
+901,SpiceJet,1,7,Economy,Delhi - Kolkata,6,7.5,6.33,5954,1304
+902,SpiceJet,1,7,Economy,Delhi - Kolkata,6,5.92,6.83,5954,1304
+903,SpiceJet,1,7,Economy,Delhi - Kolkata,6,8.67,8.17,5954,1304
+904,SpiceJet,1,7,Economy,Delhi - Kolkata,6,7.5,9.33,5954,1304
+905,Go First,1,7,Economy,Delhi - Kolkata,6,19.75,12.33,5954,1304
+906,Go First,1,7,Economy,Delhi - Kolkata,6,19.5,14.08,5954,1304
+907,Go First,1,7,Economy,Delhi - Kolkata,6,5.75,14.17,5954,1304
+908,SpiceJet,1,7,Economy,Delhi - Kolkata,6,19.17,18.67,5954,1304
+909,SpiceJet,1,7,Economy,Delhi - Kolkata,6,18.0,19.83,5954,1304
+910,SpiceJet,1,7,Economy,Delhi - Kolkata,6,19.17,21.67,5954,1304
+911,SpiceJet,1,7,Economy,Delhi - Kolkata,6,18.0,22.83,5954,1304
+912,Vistara,0,7,Economy,Delhi - Kolkata,6,6.33,2.0,5955,1304
+913,Vistara,0,7,Economy,Delhi - Kolkata,6,7.5,2.08,5955,1304
+914,Air Asia,1,7,Premium Economy,Delhi - Kolkata,6,18.67,6.92,5951,1304
+915,Air Asia,1,7,Premium Economy,Delhi - Kolkata,6,18.67,7.0,5951,1304
+916,Air Asia,1,7,Premium Economy,Delhi - Kolkata,6,5.58,11.75,5951,1304
+917,Air Asia,1,7,Premium Economy,Delhi - Kolkata,6,8.0,13.33,5951,1304
+918,Air Asia,1,7,Premium Economy,Delhi - Kolkata,6,18.67,13.58,5951,1304
+919,Go First,0,7,Premium Economy,Delhi - Kolkata,6,5.75,2.08,5954,1304
+920,Go First,0,7,Premium Economy,Delhi - Kolkata,6,21.0,2.08,5954,1304
+921,SpiceJet,0,7,Premium Economy,Delhi - Kolkata,6,5.75,2.33,5954,1304
+922,SpiceJet,0,7,Premium Economy,Delhi - Kolkata,6,20.67,2.42,5954,1304
+923,Go First,1,7,Premium Economy,Delhi - Kolkata,6,17.5,4.42,5954,1304
+924,SpiceJet,1,7,Premium Economy,Delhi - Kolkata,6,8.67,5.17,5954,1304
+925,Go First,1,7,Premium Economy,Delhi - Kolkata,6,12.58,5.17,5954,1304
+926,SpiceJet,1,7,Premium Economy,Delhi - Kolkata,6,7.5,6.33,5954,1304
+927,SpiceJet,1,7,Premium Economy,Delhi - Kolkata,6,5.92,6.83,5954,1304
+928,SpiceJet,1,7,Premium Economy,Delhi - Kolkata,6,8.67,8.17,5954,1304
+929,SpiceJet,1,7,Premium Economy,Delhi - Kolkata,6,7.5,9.33,5954,1304
+930,Go First,1,7,Premium Economy,Delhi - Kolkata,6,19.75,12.33,5954,1304
+931,Go First,1,7,Premium Economy,Delhi - Kolkata,6,19.5,14.08,5954,1304
+932,Go First,1,7,Premium Economy,Delhi - Kolkata,6,5.75,14.17,5954,1304
+933,SpiceJet,1,7,Premium Economy,Delhi - Kolkata,6,19.17,18.67,5954,1304
+934,SpiceJet,1,7,Premium Economy,Delhi - Kolkata,6,18.0,19.83,5954,1304
+935,SpiceJet,1,7,Premium Economy,Delhi - Kolkata,6,19.17,21.67,5954,1304
+936,SpiceJet,1,7,Premium Economy,Delhi - Kolkata,6,18.0,22.83,5954,1304
+937,Vistara,0,7,Premium Economy,Delhi - Kolkata,6,6.33,2.0,5955,1304
+938,Vistara,0,7,Premium Economy,Delhi - Kolkata,6,7.5,2.08,5955,1304
+939,Air India,0,7,Business,Delhi - Kolkata,6,20.25,2.08,20000,1304
+940,Air India,0,7,Business,Delhi - Kolkata,6,7.0,2.17,20000,1304
+941,Air India,0,7,Business,Delhi - Kolkata,6,16.92,2.25,20000,1304
+942,Vistara,0,7,Business,Delhi - Kolkata,6,7.5,2.08,21256,1304
+943,Vistara,0,7,Business,Delhi - Kolkata,6,14.83,2.08,21256,1304
+944,Vistara,0,7,Business,Delhi - Kolkata,6,20.5,2.25,21256,1304
+945,Vistara,0,7,Business,Delhi - Kolkata,6,17.5,2.08,26856,1304
+946,Air India,1,7,Business,Delhi - Kolkata,6,16.75,19.42,29763,1304
+947,Air India,1,7,Business,Delhi - Kolkata,6,14.0,22.17,29763,1304
+948,Air India,1,7,Business,Delhi - Kolkata,6,12.17,3.83,31292,1304
+949,Air India,1,7,Business,Delhi - Kolkata,6,18.67,21.33,31292,1304
+950,Air India,1,7,Business,Delhi - Kolkata,6,9.58,10.5,34966,1304
+951,Vistara,1,7,Business,Delhi - Kolkata,6,11.17,5.67,38201,1304
+952,Vistara,1,7,Business,Delhi - Kolkata,6,7.0,9.83,38201,1304
+953,Vistara,1,7,Business,Delhi - Kolkata,6,17.83,23.0,38201,1304
+954,Air India,2,7,Business,Delhi - Kolkata,6,9.75,6.25,39432,1304
+955,Air India,2,7,Business,Delhi - Kolkata,6,8.33,7.67,39432,1304
+956,Air India,1,7,Business,Delhi - Kolkata,6,21.42,10.67,39432,1304
+957,Air India,2,7,Business,Delhi - Kolkata,6,21.42,18.58,39432,1304
+958,Air India,1,7,Business,Delhi - Kolkata,6,9.75,22.33,39432,1304
+959,Air India,1,7,Business,Delhi - Kolkata,6,8.33,23.75,39432,1304
+960,Vistara,1,7,Business,Delhi - Kolkata,6,18.0,15.25,40023,1304
+961,Vistara,1,7,Business,Delhi - Kolkata,6,6.67,26.58,40023,1304
+962,Air India,1,7,Business,Delhi - Kolkata,6,5.42,7.0,41118,1304
+963,Air India,1,7,Business,Delhi - Kolkata,6,5.42,11.58,41118,1304
+964,IndiGo,1,30,Economy,Delhi - Kolkata,6,13.0,4.83,3621,1304
+965,IndiGo,1,30,Economy,Delhi - Kolkata,6,7.83,10.0,3621,1304
+966,Go First,1,30,Economy,Delhi - Kolkata,6,9.0,7.5,3973,1304
+967,Go First,1,30,Economy,Delhi - Kolkata,6,6.08,10.42,3973,1304
+968,Air Asia,0,30,Economy,Delhi - Kolkata,6,5.0,2.17,3999,1304
+969,Go First,0,30,Economy,Delhi - Kolkata,6,5.83,2.17,3999,1304
+970,Air Asia,0,30,Economy,Delhi - Kolkata,6,21.0,2.17,3999,1304
+971,Go First,0,30,Economy,Delhi - Kolkata,6,19.42,2.33,3999,1304
+972,Air Asia,0,30,Economy,Delhi - Kolkata,6,16.83,2.42,3999,1304
+973,IndiGo,1,30,Economy,Delhi - Kolkata,6,9.83,4.5,3999,1304
+974,IndiGo,1,30,Economy,Delhi - Kolkata,6,5.25,5.08,3999,1304
+975,IndiGo,1,30,Economy,Delhi - Kolkata,6,15.5,5.42,3999,1304
+976,IndiGo,1,30,Economy,Delhi - Kolkata,6,7.42,5.75,3999,1304
+977,IndiGo,1,30,Economy,Delhi - Kolkata,6,6.08,7.08,3999,1304
+978,IndiGo,1,30,Economy,Delhi - Kolkata,6,9.83,8.08,3999,1304
+979,IndiGo,1,30,Economy,Delhi - Kolkata,6,10.92,8.75,3999,1304
+980,IndiGo,1,30,Economy,Delhi - Kolkata,6,10.42,10.5,3999,1304
+981,IndiGo,1,30,Economy,Delhi - Kolkata,6,10.92,10.92,3999,1304
+982,IndiGo,0,30,Economy,Delhi - Kolkata,6,3.0,2.17,4000,1304
+983,IndiGo,0,30,Economy,Delhi - Kolkata,6,10.0,2.17,4000,1304
+984,IndiGo,0,30,Economy,Delhi - Kolkata,6,19.75,2.17,4000,1304
+985,SpiceJet,0,30,Economy,Delhi - Kolkata,6,20.83,2.17,4000,1304
+986,IndiGo,0,30,Economy,Delhi - Kolkata,6,18.58,2.33,4000,1304
+987,SpiceJet,0,30,Economy,Delhi - Kolkata,6,6.25,2.83,4000,1304
+988,Go First,1,30,Economy,Delhi - Kolkata,6,16.67,4.58,4086,1304
+989,Vistara,0,30,Premium Economy,Delhi - Kolkata,6,6.25,2.08,5300,1304
+990,Vistara,0,30,Premium Economy,Delhi - Kolkata,6,7.5,2.08,5300,1304
+991,Vistara,0,30,Premium Economy,Delhi - Kolkata,6,17.5,2.08,5300,1304
+992,Vistara,0,30,Premium Economy,Delhi - Kolkata,6,20.5,2.25,5300,1304
+993,Air India,0,30,Business,Delhi - Kolkata,6,20.25,2.08,28536,1304
+994,Air India,0,30,Business,Delhi - Kolkata,6,6.83,2.17,28536,1304
+995,Air India,0,30,Business,Delhi - Kolkata,6,16.92,2.25,28536,1304
+996,Vistara,0,30,Business,Delhi - Kolkata,6,7.5,2.08,29096,1304
+997,Vistara,0,30,Business,Delhi - Kolkata,6,20.5,2.25,29096,1304
+998,Vistara,0,30,Business,Delhi - Kolkata,6,17.5,2.08,30776,1304
+999,Vistara,0,30,Business,Delhi - Kolkata,6,6.25,2.08,38056,1304
+1000,Air India,1,30,Business,Delhi - Kolkata,6,5.42,7.0,42493,1304
+1001,Air India,1,30,Business,Delhi - Kolkata,6,18.92,16.17,45205,1304
+1002,Air India,2,30,Business,Delhi - Kolkata,6,9.75,6.25,45953,1304
+1003,Air India,2,30,Business,Delhi - Kolkata,6,8.17,7.83,45953,1304
+1004,Air India,1,30,Business,Delhi - Kolkata,6,21.17,10.92,45953,1304
+1005,Air India,1,30,Business,Delhi - Kolkata,6,9.75,22.33,45953,1304
+1006,Air India,1,30,Business,Delhi - Kolkata,6,8.17,23.92,45953,1304
+1007,Air India,2,30,Business,Delhi - Kolkata,6,9.42,6.67,51868,1304
+1008,Air India,1,30,Business,Delhi - Kolkata,6,9.42,10.67,52744,1304
+1009,Air India,1,30,Business,Delhi - Kolkata,6,20.67,17.25,55025,1304
+1010,Air India,1,30,Business,Delhi - Kolkata,6,9.75,28.17,55025,1304
+1011,Air India,1,30,Business,Delhi - Kolkata,6,20.0,27.25,55673,1304
+1012,Air India,1,30,Business,Delhi - Kolkata,6,19.0,28.25,55673,1304
+1013,Vistara,1,30,Business,Delhi - Kolkata,6,9.5,7.42,61049,1304
+1014,Vistara,1,30,Business,Delhi - Kolkata,6,11.67,22.08,61049,1304
+1015,Vistara,1,30,Business,Delhi - Kolkata,6,9.5,24.25,61049,1304
+1016,Vistara,1,30,Business,Delhi - Kolkata,6,11.67,29.25,61049,1304
+1017,Vistara,1,30,Business,Delhi - Kolkata,6,20.67,13.08,61833,1304
+1018,Air India,0,60,Economy,Delhi - Kolkata,6,16.92,2.25,2903,1304
+1019,Air India,0,60,Economy,Delhi - Kolkata,6,20.25,2.08,3428,1304
+1020,Air India,0,60,Economy,Delhi - Kolkata,6,6.83,2.17,3428,1304
+1021,Air Asia,0,60,Economy,Delhi - Kolkata,6,5.0,2.17,3999,1304
+1022,Go First,0,60,Economy,Delhi - Kolkata,6,5.83,2.17,3999,1304
+1023,Air Asia,0,60,Economy,Delhi - Kolkata,6,21.0,2.17,3999,1304
+1024,Go First,0,60,Economy,Delhi - Kolkata,6,19.42,2.33,3999,1304
+1025,SpiceJet,0,60,Economy,Delhi - Kolkata,6,20.83,2.17,4000,1304
+1026,IndiGo,0,60,Economy,Delhi - Kolkata,6,6.25,2.25,4000,1304
+1027,IndiGo,0,60,Economy,Delhi - Kolkata,6,7.33,2.25,4000,1304
+1028,IndiGo,0,60,Economy,Delhi - Kolkata,6,8.33,2.25,4000,1304
+1029,IndiGo,0,60,Economy,Delhi - Kolkata,6,9.33,2.25,4000,1304
+1030,IndiGo,0,60,Economy,Delhi - Kolkata,6,13.08,2.25,4000,1304
+1031,IndiGo,0,60,Economy,Delhi - Kolkata,6,15.0,2.25,4000,1304
+1032,IndiGo,0,60,Economy,Delhi - Kolkata,6,17.17,2.25,4000,1304
+1033,IndiGo,0,60,Economy,Delhi - Kolkata,6,19.5,2.25,4000,1304
+1034,IndiGo,0,60,Economy,Delhi - Kolkata,6,20.42,2.25,4000,1304
+1035,IndiGo,0,60,Economy,Delhi - Kolkata,6,22.5,2.25,4000,1304
+1036,SpiceJet,0,60,Economy,Delhi - Kolkata,6,6.25,2.83,4000,1304
+1037,Vistara,0,60,Economy,Delhi - Kolkata,6,6.25,2.08,4200,1304
+1038,Vistara,0,60,Economy,Delhi - Kolkata,6,7.5,2.08,4200,1304
+1039,Vistara,0,60,Economy,Delhi - Kolkata,6,17.5,2.08,4200,1304
+1040,Vistara,0,60,Economy,Delhi - Kolkata,6,20.5,2.25,4200,1304
+1041,Air India,1,60,Economy,Delhi - Kolkata,6,21.17,10.92,4345,1304
+1042,Air India,1,60,Economy,Delhi - Kolkata,6,9.75,22.33,4345,1304
+1043,Vistara,0,60,Premium Economy,Delhi - Kolkata,6,6.25,2.08,5300,1304
+1044,Vistara,0,60,Premium Economy,Delhi - Kolkata,6,7.5,2.08,5300,1304
+1045,Vistara,0,60,Premium Economy,Delhi - Kolkata,6,17.5,2.08,5300,1304
+1046,Vistara,0,60,Premium Economy,Delhi - Kolkata,6,20.5,2.25,5300,1304
+1047,Air India,0,60,Business,Delhi - Kolkata,6,20.25,2.08,28536,1304
+1048,Air India,0,60,Business,Delhi - Kolkata,6,6.83,2.17,28536,1304
+1049,Air India,0,60,Business,Delhi - Kolkata,6,16.92,2.25,28536,1304
+1050,Vistara,0,60,Business,Delhi - Kolkata,6,6.25,2.08,29096,1304
+1051,Vistara,0,60,Business,Delhi - Kolkata,6,7.5,2.08,29096,1304
+1052,Vistara,0,60,Business,Delhi - Kolkata,6,20.5,2.25,29096,1304
+1053,Vistara,0,60,Business,Delhi - Kolkata,6,17.5,2.08,30776,1304
+1054,Air India,1,60,Business,Delhi - Kolkata,6,16.75,19.42,42397,1304
+1055,Air India,1,60,Business,Delhi - Kolkata,6,5.42,7.0,42493,1304
+1056,Air India,1,60,Business,Delhi - Kolkata,6,21.17,10.92,45953,1304
+1057,Air India,1,60,Business,Delhi - Kolkata,6,9.75,22.33,45953,1304
+1058,Air India,1,60,Business,Delhi - Kolkata,6,8.17,23.92,45953,1304
+1059,Air India,2,60,Business,Delhi - Kolkata,6,9.42,6.67,51868,1304
+1060,Vistara,1,60,Business,Delhi - Kolkata,6,20.67,13.08,54329,1304
+1061,Vistara,1,60,Business,Delhi - Kolkata,6,20.67,20.25,54329,1304
+1062,Air India,1,60,Business,Delhi - Kolkata,6,6.08,7.83,55025,1304
+1063,Air India,1,60,Business,Delhi - Kolkata,6,20.67,17.25,55025,1304
+1064,Air India,1,60,Business,Delhi - Kolkata,6,9.75,28.17,55025,1304
+1065,Air India,2,60,Business,Delhi - Kolkata,6,15.08,8.17,55673,1304
+1066,Air India,1,60,Business,Delhi - Kolkata,6,10.67,12.58,55673,1304
+1067,Air India,1,60,Business,Delhi - Kolkata,6,8.0,15.25,55673,1304
+1068,Air India,2,60,Business,Delhi - Kolkata,6,20.0,16.17,55673,1304
+1069,Air India,1,60,Business,Delhi - Kolkata,6,7.0,16.25,55673,1304
+1070,Air India,2,60,Business,Delhi - Kolkata,6,19.0,17.17,55673,1304
+1071,Air India,1,60,Business,Delhi - Kolkata,6,6.17,7.33,58238,1304
+1072,Air Asia,1,1,Economy,Delhi - Chennai,7,5.58,6.83,7423,1757
+1073,Air Asia,1,1,Economy,Delhi - Chennai,7,8.0,9.42,7423,1757
+1074,Air Asia,1,1,Economy,Delhi - Chennai,7,18.67,13.0,7423,1757
+1075,Air Asia,1,1,Economy,Delhi - Chennai,7,7.17,14.67,7423,1757
+1076,Air Asia,1,1,Economy,Delhi - Chennai,7,5.58,14.92,7423,1757
+1077,Air Asia,1,1,Economy,Delhi - Chennai,7,16.25,15.42,7423,1757
+1078,Vistara,0,1,Economy,Delhi - Chennai,7,17.58,2.67,7425,1757
+1079,IndiGo,0,1,Economy,Delhi - Chennai,7,22.5,2.67,7425,1757
+1080,Vistara,0,1,Economy,Delhi - Chennai,7,7.33,2.83,7425,1757
+1081,Vistara,0,1,Economy,Delhi - Chennai,7,13.5,2.83,7425,1757
+1082,Vistara,0,1,Economy,Delhi - Chennai,7,19.92,2.83,7425,1757
+1083,IndiGo,0,1,Economy,Delhi - Chennai,7,20.75,2.83,7425,1757
+1084,IndiGo,0,1,Economy,Delhi - Chennai,7,8.5,2.92,7425,1757
+1085,IndiGo,0,1,Economy,Delhi - Chennai,7,6.42,3.0,7425,1757
+1086,SpiceJet,0,1,Economy,Delhi - Chennai,7,16.42,3.08,7425,1757
+1087,IndiGo,0,1,Economy,Delhi - Chennai,7,18.08,3.08,7425,1757
+1088,IndiGo,1,1,Economy,Delhi - Chennai,7,5.42,4.5,7425,1757
+1089,SpiceJet,1,1,Economy,Delhi - Chennai,7,18.67,4.5,7425,1757
+1090,IndiGo,1,1,Economy,Delhi - Chennai,7,7.17,4.58,7425,1757
+1091,IndiGo,1,1,Economy,Delhi - Chennai,7,19.25,4.67,7425,1757
+1092,IndiGo,1,1,Economy,Delhi - Chennai,7,9.75,5.58,7425,1757
+1093,IndiGo,1,1,Economy,Delhi - Chennai,7,6.08,5.67,7425,1757
+1094,IndiGo,1,1,Economy,Delhi - Chennai,7,13.17,6.42,7425,1757
+1095,IndiGo,1,1,Economy,Delhi - Chennai,7,17.25,6.67,7425,1757
+1096,IndiGo,1,1,Economy,Delhi - Chennai,7,13.58,6.83,7425,1757
+1097,Vistara,0,1,Premium Economy,Delhi - Chennai,7,17.58,2.67,8566,1757
+1098,Vistara,0,1,Premium Economy,Delhi - Chennai,7,7.33,2.83,8566,1757
+1099,Vistara,0,1,Premium Economy,Delhi - Chennai,7,13.5,2.83,8566,1757
+1100,Vistara,0,1,Premium Economy,Delhi - Chennai,7,19.92,2.83,8566,1757
+1101,Air India,0,1,Business,Delhi - Chennai,7,6.0,2.92,25073,1757
+1102,Air India,0,1,Business,Delhi - Chennai,7,9.75,2.92,25073,1757
+1103,Vistara,0,1,Business,Delhi - Chennai,7,17.58,2.67,29000,1757
+1104,Vistara,0,1,Business,Delhi - Chennai,7,7.33,2.83,29000,1757
+1105,Vistara,0,1,Business,Delhi - Chennai,7,13.5,2.83,29000,1757
+1106,Vistara,0,1,Business,Delhi - Chennai,7,19.92,2.83,29000,1757
+1107,Air India,1,1,Business,Delhi - Chennai,7,21.42,11.17,34682,1757
+1108,Air India,1,1,Business,Delhi - Chennai,7,9.75,22.83,34682,1757
+1109,Air India,1,1,Business,Delhi - Chennai,7,8.33,24.25,34682,1757
+1110,Air India,1,1,Business,Delhi - Chennai,7,6.17,6.67,36681,1757
+1111,Air India,2,1,Business,Delhi - Chennai,7,19.0,13.58,39694,1757
+1112,Air India,3,1,Business,Delhi - Chennai,7,18.0,14.58,39694,1757
+1113,Air India,1,1,Business,Delhi - Chennai,7,19.0,15.92,39694,1757
+1114,Air India,2,1,Business,Delhi - Chennai,7,18.0,16.92,39694,1757
+1115,Air India,2,1,Business,Delhi - Chennai,7,10.67,21.92,39694,1757
+1116,Air India,2,1,Business,Delhi - Chennai,7,9.0,23.58,39694,1757
+1117,Air India,1,1,Business,Delhi - Chennai,7,10.67,24.25,39694,1757
+1118,Air India,2,1,Business,Delhi - Chennai,7,8.0,24.58,39694,1757
+1119,Air India,2,1,Business,Delhi - Chennai,7,7.0,25.58,39694,1757
+1120,Air India,1,1,Business,Delhi - Chennai,7,9.0,25.92,39694,1757
+1121,Air India,1,1,Business,Delhi - Chennai,7,8.0,26.92,39694,1757
+1122,Air India,1,1,Business,Delhi - Chennai,7,7.0,27.92,39694,1757
+1123,Air India,3,1,Business,Delhi - Chennai,7,15.08,17.5,45294,1757
+1124,Air India,2,1,Business,Delhi - Chennai,7,15.08,19.83,45294,1757
+1125,Air India,2,1,Business,Delhi - Chennai,7,21.42,13.5,54303,1757
+1126,Air India,0,7,Economy,Delhi - Chennai,7,6.0,2.92,25073,1757
+1127,Air India,0,7,Economy,Delhi - Chennai,7,9.75,2.92,25073,1757
+1128,Vistara,0,7,Economy,Delhi - Chennai,7,17.58,2.67,29000,1757
+1129,Vistara,0,7,Economy,Delhi - Chennai,7,7.33,2.83,29000,1757
+1130,Vistara,0,7,Economy,Delhi - Chennai,7,13.5,2.83,29000,1757
+1131,Vistara,0,7,Economy,Delhi - Chennai,7,19.92,2.83,29000,1757
+1132,Air India,1,7,Economy,Delhi - Chennai,7,21.42,11.17,34682,1757
+1133,Air India,1,7,Economy,Delhi - Chennai,7,9.75,22.83,34682,1757
+1134,Air India,1,7,Economy,Delhi - Chennai,7,8.33,24.25,34682,1757
+1135,Air India,1,7,Economy,Delhi - Chennai,7,6.17,6.67,36681,1757
+1136,Air India,2,7,Economy,Delhi - Chennai,7,19.0,13.58,39694,1757
+1137,Air India,3,7,Economy,Delhi - Chennai,7,18.0,14.58,39694,1757
+1138,Air India,1,7,Economy,Delhi - Chennai,7,19.0,15.92,39694,1757
+1139,Air India,2,7,Economy,Delhi - Chennai,7,18.0,16.92,39694,1757
+1140,Air India,2,7,Economy,Delhi - Chennai,7,10.67,21.92,39694,1757
+1141,Air India,2,7,Economy,Delhi - Chennai,7,9.0,23.58,39694,1757
+1142,Air India,1,7,Economy,Delhi - Chennai,7,10.67,24.25,39694,1757
+1143,Air India,2,7,Economy,Delhi - Chennai,7,8.0,24.58,39694,1757
+1144,Air India,2,7,Economy,Delhi - Chennai,7,7.0,25.58,39694,1757
+1145,Air India,1,7,Economy,Delhi - Chennai,7,9.0,25.92,39694,1757
+1146,Air India,1,7,Economy,Delhi - Chennai,7,8.0,26.92,39694,1757
+1147,Air India,1,7,Economy,Delhi - Chennai,7,7.0,27.92,39694,1757
+1148,Air India,3,7,Economy,Delhi - Chennai,7,15.08,17.5,45294,1757
+1149,Air India,2,7,Economy,Delhi - Chennai,7,15.08,19.83,45294,1757
+1150,Air India,2,7,Economy,Delhi - Chennai,7,21.42,13.5,54303,1757
+1151,Vistara,0,7,Premium Economy,Delhi - Chennai,7,17.58,2.67,8566,1757
+1152,Vistara,0,7,Premium Economy,Delhi - Chennai,7,7.33,2.83,8566,1757
+1153,Vistara,0,7,Premium Economy,Delhi - Chennai,7,13.5,2.83,8566,1757
+1154,Vistara,0,7,Premium Economy,Delhi - Chennai,7,19.92,2.83,8566,1757
+1155,Air India,0,7,Business,Delhi - Chennai,7,6.0,2.92,25073,1757
+1156,Air India,0,7,Business,Delhi - Chennai,7,9.75,2.92,25073,1757
+1157,Air India,0,7,Business,Delhi - Chennai,7,20.67,2.92,25073,1757
+1158,Vistara,0,7,Business,Delhi - Chennai,7,17.58,2.67,27864,1757
+1159,Vistara,0,7,Business,Delhi - Chennai,7,7.33,2.83,27864,1757
+1160,Vistara,0,7,Business,Delhi - Chennai,7,19.92,2.83,27864,1757
+1161,Air India,1,7,Business,Delhi - Chennai,7,6.17,6.67,36681,1757
+1162,Air India,1,7,Business,Delhi - Chennai,7,20.0,11.25,39694,1757
+1163,Air India,1,7,Business,Delhi - Chennai,7,19.0,12.25,39694,1757
+1164,Air India,2,7,Business,Delhi - Chennai,7,18.0,13.25,39694,1757
+1165,Air India,1,7,Business,Delhi - Chennai,7,20.0,14.92,39694,1757
+1166,Air India,1,7,Business,Delhi - Chennai,7,19.0,15.92,39694,1757
+1167,Air India,2,7,Business,Delhi - Chennai,7,15.08,16.17,39694,1757
+1168,Air India,2,7,Business,Delhi - Chennai,7,18.0,16.92,39694,1757
+1169,Air India,2,7,Business,Delhi - Chennai,7,15.08,19.83,39694,1757
+1170,Air India,1,7,Business,Delhi - Chennai,7,10.67,20.58,39694,1757
+1171,Air India,1,7,Business,Delhi - Chennai,7,9.0,22.25,39694,1757
+1172,Air India,1,7,Business,Delhi - Chennai,7,8.0,23.25,39694,1757
+1173,Air India,1,7,Business,Delhi - Chennai,7,7.0,24.25,39694,1757
+1174,Air India,1,7,Business,Delhi - Chennai,7,10.67,24.25,39694,1757
+1175,Air India,1,7,Business,Delhi - Chennai,7,9.0,25.92,39694,1757
+1176,Air India,1,7,Business,Delhi - Chennai,7,8.0,26.92,39694,1757
+1177,Air India,1,7,Business,Delhi - Chennai,7,7.0,27.92,39694,1757
+1178,Air India,2,7,Business,Delhi - Chennai,7,13.33,17.92,49309,1757
+1179,Air India,2,7,Business,Delhi - Chennai,7,13.33,21.58,49309,1757
+1180,IndiGo,0,30,Economy,Delhi - Chennai,7,7.42,2.83,2341,1757
+1181,IndiGo,0,30,Economy,Delhi - Chennai,7,23.08,2.83,2341,1757
+1182,IndiGo,0,30,Economy,Delhi - Chennai,7,12.75,2.92,2341,1757
+1183,Air India,0,30,Economy,Delhi - Chennai,7,6.08,2.83,2343,1757
+1184,IndiGo,1,30,Economy,Delhi - Chennai,7,9.67,5.42,2343,1757
+1185,IndiGo,1,30,Economy,Delhi - Chennai,7,23.08,6.83,2343,1757
+1186,IndiGo,1,30,Economy,Delhi - Chennai,7,7.92,7.17,2343,1757
+1187,IndiGo,1,30,Economy,Delhi - Chennai,7,9.67,8.0,2343,1757
+1188,IndiGo,1,30,Economy,Delhi - Chennai,7,6.75,8.33,2343,1757
+1189,Vistara,0,30,Economy,Delhi - Chennai,7,13.5,2.83,2400,1757
+1190,SpiceJet,0,30,Economy,Delhi - Chennai,7,18.42,2.75,2621,1757
+1191,SpiceJet,0,30,Economy,Delhi - Chennai,7,6.25,2.92,2621,1757
+1192,Air India,0,30,Economy,Delhi - Chennai,7,9.75,2.92,2658,1757
+1193,Air India,0,30,Economy,Delhi - Chennai,7,20.67,2.92,2658,1757
+1194,Vistara,0,30,Economy,Delhi - Chennai,7,7.33,2.83,2715,1757
+1195,Vistara,0,30,Economy,Delhi - Chennai,7,19.92,2.83,2715,1757
+1196,IndiGo,0,30,Economy,Delhi - Chennai,7,8.58,2.83,2823,1757
+1197,IndiGo,1,30,Economy,Delhi - Chennai,7,7.42,5.0,3540,1757
+1198,IndiGo,1,30,Economy,Delhi - Chennai,7,11.17,5.33,3540,1757
+1199,IndiGo,1,30,Economy,Delhi - Chennai,7,13.67,5.75,3540,1757
+1200,IndiGo,1,30,Economy,Delhi - Chennai,7,6.17,5.83,3540,1757
+1201,IndiGo,1,30,Economy,Delhi - Chennai,7,6.08,6.33,3540,1757
+1202,IndiGo,1,30,Economy,Delhi - Chennai,7,9.25,6.67,3540,1757
+1203,IndiGo,1,30,Economy,Delhi - Chennai,7,12.0,7.25,3540,1757
+1204,IndiGo,1,30,Economy,Delhi - Chennai,7,8.33,7.58,3540,1757
+1205,Vistara,0,30,Premium Economy,Delhi - Chennai,7,7.33,2.83,8566,1757
+1206,Vistara,0,30,Premium Economy,Delhi - Chennai,7,13.5,2.83,8566,1757
+1207,Vistara,0,30,Premium Economy,Delhi - Chennai,7,19.92,2.83,8566,1757
+1208,Vistara,0,30,Premium Economy,Delhi - Chennai,7,17.42,2.83,9070,1757
+1209,Vistara,0,30,Business,Delhi - Chennai,7,7.33,2.83,27864,1757
+1210,Vistara,0,30,Business,Delhi - Chennai,7,13.5,2.83,27864,1757
+1211,Vistara,0,30,Business,Delhi - Chennai,7,17.42,2.83,27864,1757
+1212,Vistara,0,30,Business,Delhi - Chennai,7,19.92,2.83,27864,1757
+1213,Air India,0,30,Business,Delhi - Chennai,7,6.08,2.83,33016,1757
+1214,Air India,0,30,Business,Delhi - Chennai,7,9.75,2.92,33016,1757
+1215,Air India,0,30,Business,Delhi - Chennai,7,20.67,2.92,33016,1757
+1216,Air India,1,30,Business,Delhi - Chennai,7,20.0,14.92,46601,1757
+1217,Air India,1,30,Business,Delhi - Chennai,7,19.0,15.92,46601,1757
+1218,Air India,2,30,Business,Delhi - Chennai,7,15.08,19.83,46601,1757
+1219,Air India,1,30,Business,Delhi - Chennai,7,10.67,24.25,46601,1757
+1220,Air India,1,30,Business,Delhi - Chennai,7,8.0,26.92,46601,1757
+1221,Air India,1,30,Business,Delhi - Chennai,7,7.0,27.92,46601,1757
+1222,Air India,1,30,Business,Delhi - Chennai,7,6.17,6.67,46703,1757
+1223,Air India,1,30,Business,Delhi - Chennai,7,20.25,20.83,50545,1757
+1224,Air India,1,30,Business,Delhi - Chennai,7,16.92,24.17,50545,1757
+1225,Vistara,1,30,Business,Delhi - Chennai,7,11.67,8.25,51977,1757
+1226,Vistara,1,30,Business,Delhi - Chennai,7,9.5,10.42,51977,1757
+1227,Vistara,1,30,Business,Delhi - Chennai,7,11.67,11.42,51977,1757
+1228,Vistara,1,30,Business,Delhi - Chennai,7,9.5,13.58,51977,1757
+1229,Vistara,1,30,Business,Delhi - Chennai,7,11.67,21.42,51977,1757
+1230,Vistara,1,30,Business,Delhi - Chennai,7,9.5,23.58,51977,1757
+1231,Vistara,1,30,Business,Delhi - Chennai,7,11.67,24.17,51977,1757
+1232,Vistara,1,30,Business,Delhi - Chennai,7,9.5,26.33,51977,1757
+1233,Vistara,1,30,Business,Delhi - Chennai,7,20.67,12.42,52761,1757
+1234,IndiGo,0,60,Economy,Delhi - Chennai,7,8.58,2.92,2341,1757
+1235,Air India,0,60,Economy,Delhi - Chennai,7,6.08,2.83,2343,1757
+1236,Air India,0,60,Economy,Delhi - Chennai,7,9.75,2.92,2343,1757
+1237,Air India,0,60,Economy,Delhi - Chennai,7,20.67,2.92,2343,1757
+1238,SpiceJet,0,60,Economy,Delhi - Chennai,7,18.42,2.75,2621,1757
+1239,SpiceJet,0,60,Economy,Delhi - Chennai,7,6.25,2.92,2621,1757
+1240,Vistara,0,60,Economy,Delhi - Chennai,7,7.33,2.83,2641,1757
+1241,Vistara,0,60,Economy,Delhi - Chennai,7,17.42,2.83,2641,1757
+1242,Vistara,0,60,Economy,Delhi - Chennai,7,19.92,2.83,2641,1757
+1243,SpiceJet,1,60,Economy,Delhi - Chennai,7,19.75,12.25,3874,1757
+1244,SpiceJet,1,60,Economy,Delhi - Chennai,7,18.83,13.17,3874,1757
+1245,SpiceJet,1,60,Economy,Delhi - Chennai,7,7.33,14.0,3874,1757
+1246,SpiceJet,1,60,Economy,Delhi - Chennai,7,6.5,14.83,3874,1757
+1247,SpiceJet,1,60,Economy,Delhi - Chennai,7,7.33,24.67,3874,1757
+1248,SpiceJet,1,60,Economy,Delhi - Chennai,7,6.5,25.5,3874,1757
+1249,Go First,1,60,Economy,Delhi - Chennai,7,14.33,5.83,3965,1757
+1250,Go First,1,60,Economy,Delhi - Chennai,7,10.5,9.67,3965,1757
+1251,Go First,1,60,Economy,Delhi - Chennai,7,21.0,10.67,3965,1757
+1252,Go First,1,60,Economy,Delhi - Chennai,7,19.67,12.0,3965,1757
+1253,Go First,1,60,Economy,Delhi - Chennai,7,8.0,12.17,3965,1757
+1254,Go First,1,60,Economy,Delhi - Chennai,7,7.0,13.17,3965,1757
+1255,Go First,1,60,Economy,Delhi - Chennai,7,17.92,13.75,3965,1757
+1256,Air India,1,60,Economy,Delhi - Chennai,7,10.67,20.67,3988,1757
+1257,Air India,1,60,Economy,Delhi - Chennai,7,8.0,23.33,3988,1757
+1258,Air India,1,60,Economy,Delhi - Chennai,7,7.0,24.33,3988,1757
+1259,Vistara,0,60,Premium Economy,Delhi - Chennai,7,7.33,2.83,8566,1757
+1260,Vistara,0,60,Premium Economy,Delhi - Chennai,7,17.42,2.83,8566,1757
+1261,Vistara,0,60,Premium Economy,Delhi - Chennai,7,19.92,2.83,8566,1757
+1262,Vistara,0,60,Business,Delhi - Chennai,7,7.33,2.83,27864,1757
+1263,Vistara,0,60,Business,Delhi - Chennai,7,17.42,2.83,27864,1757
+1264,Vistara,0,60,Business,Delhi - Chennai,7,19.92,2.83,27864,1757
+1265,Air India,0,60,Business,Delhi - Chennai,7,6.08,2.83,33016,1757
+1266,Air India,0,60,Business,Delhi - Chennai,7,9.75,2.92,33016,1757
+1267,Air India,0,60,Business,Delhi - Chennai,7,20.67,2.92,33016,1757
+1268,Vistara,1,60,Business,Delhi - Chennai,7,20.67,12.42,45257,1757
+1269,Vistara,1,60,Business,Delhi - Chennai,7,20.67,15.17,45257,1757
+1270,Vistara,1,60,Business,Delhi - Chennai,7,20.67,23.25,45257,1757
+1271,Air India,1,60,Business,Delhi - Chennai,7,20.0,11.33,46601,1757
+1272,Air India,1,60,Business,Delhi - Chennai,7,19.0,12.33,46601,1757
+1273,Air India,1,60,Business,Delhi - Chennai,7,20.0,14.92,46601,1757
+1274,Air India,1,60,Business,Delhi - Chennai,7,19.0,15.92,46601,1757
+1275,Air India,2,60,Business,Delhi - Chennai,7,15.08,16.25,46601,1757
+1276,Air India,2,60,Business,Delhi - Chennai,7,15.08,19.83,46601,1757
+1277,Air India,1,60,Business,Delhi - Chennai,7,10.67,20.67,46601,1757
+1278,Air India,1,60,Business,Delhi - Chennai,7,8.0,23.33,46601,1757
+1279,Air India,1,60,Business,Delhi - Chennai,7,10.67,24.25,46601,1757
+1280,Air India,1,60,Business,Delhi - Chennai,7,7.0,24.33,46601,1757
+1281,Air India,1,60,Business,Delhi - Chennai,7,8.0,26.92,46601,1757
+1282,Air India,1,60,Business,Delhi - Chennai,7,7.0,27.92,46601,1757
+1283,Air India,1,60,Business,Delhi - Chennai,7,6.83,10.25,50545,1757
+1284,Air India,1,60,Business,Delhi - Chennai,7,20.25,20.83,50545,1757
+1285,Air India,1,60,Business,Delhi - Chennai,7,16.92,24.17,50545,1757
+1286,Vistara,1,60,Business,Delhi - Chennai,7,11.67,8.25,51977,1757
+1287,Air Asia,1,1,Economy,Mumbai - Bengaluru,5,14.92,7.5,5101,842
+1288,Air Asia,1,1,Economy,Mumbai - Bengaluru,5,16.58,8.42,5101,842
+1289,Go First,0,1,Economy,Mumbai - Bengaluru,5,6.08,1.67,5102,842
+1290,Go First,0,1,Economy,Mumbai - Bengaluru,5,18.08,1.67,5102,842
+1291,Go First,0,1,Economy,Mumbai - Bengaluru,5,22.25,1.83,5102,842
+1292,Go First,1,1,Economy,Mumbai - Bengaluru,5,13.92,6.92,5102,842
+1293,Go First,1,1,Economy,Mumbai - Bengaluru,5,16.17,7.5,5102,842
+1294,Go First,1,1,Economy,Mumbai - Bengaluru,5,22.25,10.08,5102,842
+1295,Go First,1,1,Economy,Mumbai - Bengaluru,5,11.83,10.42,5102,842
+1296,Go First,1,1,Economy,Mumbai - Bengaluru,5,21.67,10.67,5102,842
+1297,Go First,1,1,Economy,Mumbai - Bengaluru,5,20.67,11.67,5102,842
+1298,Go First,1,1,Economy,Mumbai - Bengaluru,5,19.33,13.0,5102,842
+1299,Go First,1,1,Economy,Mumbai - Bengaluru,5,7.0,15.25,5102,842
+1300,IndiGo,0,1,Economy,Mumbai - Bengaluru,5,5.17,1.58,5103,842
+1301,Air India,0,1,Economy,Mumbai - Bengaluru,5,6.25,1.67,5103,842
+1302,Air India,0,1,Economy,Mumbai - Bengaluru,5,9.5,1.67,5103,842
+1303,Air India,0,1,Economy,Mumbai - Bengaluru,5,16.75,1.75,5103,842
+1304,IndiGo,0,1,Economy,Mumbai - Bengaluru,5,19.42,1.75,5103,842
+1305,Vistara,0,1,Economy,Mumbai - Bengaluru,5,21.0,1.83,5103,842
+1306,IndiGo,0,1,Economy,Mumbai - Bengaluru,5,7.08,1.92,5103,842
+1307,Air Asia,0,1,Economy,Mumbai - Bengaluru,5,20.83,1.58,5104,842
+1308,Air Asia,0,1,Economy,Mumbai - Bengaluru,5,20.25,1.75,5104,842
+1309,IndiGo,0,1,Economy,Mumbai - Bengaluru,5,8.58,1.67,5208,842
+1310,IndiGo,0,1,Economy,Mumbai - Bengaluru,5,17.75,1.67,5208,842
+1311,Vistara,0,1,Economy,Mumbai - Bengaluru,5,19.17,1.75,5208,842
+1312,Vistara,0,1,Premium Economy,Mumbai - Bengaluru,5,19.17,1.75,5894,842
+1313,Vistara,0,1,Premium Economy,Mumbai - Bengaluru,5,7.0,1.83,5894,842
+1314,Vistara,0,1,Premium Economy,Mumbai - Bengaluru,5,21.0,1.83,5894,842
+1315,Vistara,0,1,Premium Economy,Mumbai - Bengaluru,5,9.08,1.67,6202,842
+1316,Vistara,0,1,Premium Economy,Mumbai - Bengaluru,5,16.0,1.75,6202,842
+1317,Vistara,1,1,Premium Economy,Mumbai - Bengaluru,5,17.5,5.83,16170,842
+1318,Vistara,1,1,Premium Economy,Mumbai - Bengaluru,5,8.75,13.92,16506,842
+1319,Vistara,1,1,Premium Economy,Mumbai - Bengaluru,5,8.75,14.58,16506,842
+1320,Vistara,1,1,Premium Economy,Mumbai - Bengaluru,5,22.75,14.42,20034,842
+1321,Vistara,1,1,Premium Economy,Mumbai - Bengaluru,5,21.92,15.25,20034,842
+1322,Vistara,1,1,Premium Economy,Mumbai - Bengaluru,5,20.92,16.25,20034,842
+1323,Vistara,1,1,Premium Economy,Mumbai - Bengaluru,5,17.5,19.67,20034,842
+1324,Vistara,1,1,Premium Economy,Mumbai - Bengaluru,5,8.75,11.67,20370,842
+1325,Vistara,1,1,Premium Economy,Mumbai - Bengaluru,5,8.75,28.42,20370,842
+1326,Vistara,1,1,Premium Economy,Mumbai - Bengaluru,5,15.75,6.92,21546,842
+1327,Vistara,1,1,Premium Economy,Mumbai - Bengaluru,5,15.75,7.58,21546,842
+1328,Vistara,1,1,Premium Economy,Mumbai - Bengaluru,5,14.67,8.0,21546,842
+1329,Vistara,1,1,Premium Economy,Mumbai - Bengaluru,5,14.67,8.67,21546,842
+1330,Vistara,1,1,Premium Economy,Mumbai - Bengaluru,5,9.5,9.0,22946,842
+1331,Vistara,1,1,Premium Economy,Mumbai - Bengaluru,5,22.75,18.17,23394,842
+1332,Vistara,1,1,Premium Economy,Mumbai - Bengaluru,5,21.92,19.0,23394,842
+1333,Vistara,1,1,Premium Economy,Mumbai - Bengaluru,5,20.92,20.0,23394,842
+1334,Vistara,1,1,Premium Economy,Mumbai - Bengaluru,5,22.75,23.92,23394,842
+1335,Vistara,1,1,Premium Economy,Mumbai - Bengaluru,5,21.92,24.75,23394,842
+1336,Vistara,1,1,Premium Economy,Mumbai - Bengaluru,5,20.92,25.75,23394,842
+1337,Vistara,0,1,Business,Mumbai - Bengaluru,5,19.17,1.75,5894,842
+1338,Vistara,0,1,Business,Mumbai - Bengaluru,5,7.0,1.83,5894,842
+1339,Vistara,0,1,Business,Mumbai - Bengaluru,5,21.0,1.83,5894,842
+1340,Vistara,0,1,Business,Mumbai - Bengaluru,5,9.08,1.67,6202,842
+1341,Vistara,0,1,Business,Mumbai - Bengaluru,5,16.0,1.75,6202,842
+1342,Vistara,1,1,Business,Mumbai - Bengaluru,5,17.5,5.83,16170,842
+1343,Vistara,1,1,Business,Mumbai - Bengaluru,5,8.75,13.92,16506,842
+1344,Vistara,1,1,Business,Mumbai - Bengaluru,5,8.75,14.58,16506,842
+1345,Vistara,1,1,Business,Mumbai - Bengaluru,5,22.75,14.42,20034,842
+1346,Vistara,1,1,Business,Mumbai - Bengaluru,5,21.92,15.25,20034,842
+1347,Vistara,1,1,Business,Mumbai - Bengaluru,5,20.92,16.25,20034,842
+1348,Vistara,1,1,Business,Mumbai - Bengaluru,5,17.5,19.67,20034,842
+1349,Vistara,1,1,Business,Mumbai - Bengaluru,5,8.75,11.67,20370,842
+1350,Vistara,1,1,Business,Mumbai - Bengaluru,5,8.75,28.42,20370,842
+1351,Vistara,1,1,Business,Mumbai - Bengaluru,5,15.75,6.92,21546,842
+1352,Vistara,1,1,Business,Mumbai - Bengaluru,5,15.75,7.58,21546,842
+1353,Vistara,1,1,Business,Mumbai - Bengaluru,5,14.67,8.0,21546,842
+1354,Vistara,1,1,Business,Mumbai - Bengaluru,5,14.67,8.67,21546,842
+1355,Vistara,1,1,Business,Mumbai - Bengaluru,5,9.5,9.0,22946,842
+1356,Vistara,1,1,Business,Mumbai - Bengaluru,5,22.75,18.17,23394,842
+1357,Vistara,1,1,Business,Mumbai - Bengaluru,5,21.92,19.0,23394,842
+1358,Vistara,1,1,Business,Mumbai - Bengaluru,5,20.92,20.0,23394,842
+1359,Vistara,1,1,Business,Mumbai - Bengaluru,5,22.75,23.92,23394,842
+1360,Vistara,1,1,Business,Mumbai - Bengaluru,5,21.92,24.75,23394,842
+1361,Vistara,1,1,Business,Mumbai - Bengaluru,5,20.92,25.75,23394,842
+1362,Air Asia,1,7,Economy,Mumbai - Bengaluru,5,14.92,5.5,5101,842
+1363,Air Asia,1,7,Economy,Mumbai - Bengaluru,5,14.92,7.5,5101,842
+1364,Air Asia,2,7,Economy,Mumbai - Bengaluru,5,16.58,8.0,5101,842
+1365,Air Asia,1,7,Economy,Mumbai - Bengaluru,5,16.58,8.42,5101,842
+1366,Air Asia,1,7,Economy,Mumbai - Bengaluru,5,8.0,10.33,5101,842
+1367,Air Asia,1,7,Economy,Mumbai - Bengaluru,5,23.08,11.75,5101,842
+1368,Air Asia,1,7,Economy,Mumbai - Bengaluru,5,5.92,12.42,5101,842
+1369,Go First,0,7,Economy,Mumbai - Bengaluru,5,6.08,1.67,5102,842
+1370,Go First,0,7,Economy,Mumbai - Bengaluru,5,18.08,1.67,5102,842
+1371,Go First,0,7,Economy,Mumbai - Bengaluru,5,22.25,1.83,5102,842
+1372,Go First,1,7,Economy,Mumbai - Bengaluru,5,16.0,6.25,5102,842
+1373,Go First,1,7,Economy,Mumbai - Bengaluru,5,13.92,6.92,5102,842
+1374,Go First,1,7,Economy,Mumbai - Bengaluru,5,22.25,10.08,5102,842
+1375,Go First,1,7,Economy,Mumbai - Bengaluru,5,11.83,10.42,5102,842
+1376,Go First,1,7,Economy,Mumbai - Bengaluru,5,21.67,10.67,5102,842
+1377,Go First,1,7,Economy,Mumbai - Bengaluru,5,9.33,13.0,5102,842
+1378,Go First,1,7,Economy,Mumbai - Bengaluru,5,19.33,13.0,5102,842
+1379,Go First,1,7,Economy,Mumbai - Bengaluru,5,8.5,15.17,5102,842
+1380,Go First,1,7,Economy,Mumbai - Bengaluru,5,20.0,15.17,5102,842
+1381,SpiceJet,1,7,Economy,Mumbai - Bengaluru,5,17.92,15.5,5102,842
+1382,IndiGo,0,7,Economy,Mumbai - Bengaluru,5,5.17,1.58,5103,842
+1383,Air India,0,7,Economy,Mumbai - Bengaluru,5,6.25,1.67,5103,842
+1384,Air India,0,7,Economy,Mumbai - Bengaluru,5,9.5,1.67,5103,842
+1385,Air India,0,7,Economy,Mumbai - Bengaluru,5,16.75,1.75,5103,842
+1386,Vistara,0,7,Economy,Mumbai - Bengaluru,5,19.17,1.75,5103,842
+1387,Vistara,0,7,Premium Economy,Mumbai - Bengaluru,5,9.08,1.67,5894,842
+1388,Vistara,0,7,Premium Economy,Mumbai - Bengaluru,5,16.0,1.75,5894,842
+1389,Vistara,0,7,Premium Economy,Mumbai - Bengaluru,5,19.17,1.75,5894,842
+1390,Vistara,0,7,Premium Economy,Mumbai - Bengaluru,5,7.0,1.83,5894,842
+1391,Vistara,0,7,Premium Economy,Mumbai - Bengaluru,5,21.0,1.83,5894,842
+1392,Vistara,1,7,Premium Economy,Mumbai - Bengaluru,5,22.75,12.08,14511,842
+1393,Vistara,1,7,Premium Economy,Mumbai - Bengaluru,5,21.92,12.92,14511,842
+1394,Vistara,1,7,Premium Economy,Mumbai - Bengaluru,5,20.92,13.92,14511,842
+1395,Vistara,1,7,Premium Economy,Mumbai - Bengaluru,5,22.75,21.67,14511,842
+1396,Vistara,1,7,Premium Economy,Mumbai - Bengaluru,5,21.92,22.5,14511,842
+1397,Vistara,1,7,Premium Economy,Mumbai - Bengaluru,5,20.92,23.5,14511,842
+1398,Vistara,1,7,Premium Economy,Mumbai - Bengaluru,5,22.75,23.92,14511,842
+1399,Vistara,1,7,Premium Economy,Mumbai - Bengaluru,5,22.75,24.58,14511,842
+1400,Vistara,1,7,Premium Economy,Mumbai - Bengaluru,5,21.92,24.75,14511,842
+1401,Vistara,1,7,Premium Economy,Mumbai - Bengaluru,5,21.92,25.42,14511,842
+1402,Vistara,1,7,Premium Economy,Mumbai - Bengaluru,5,20.92,25.75,14511,842
+1403,Vistara,1,7,Premium Economy,Mumbai - Bengaluru,5,20.92,26.42,14511,842
+1404,Vistara,1,7,Premium Economy,Mumbai - Bengaluru,5,14.67,8.0,15498,842
+1405,Vistara,1,7,Premium Economy,Mumbai - Bengaluru,5,14.67,8.67,15498,842
+1406,Vistara,1,7,Premium Economy,Mumbai - Bengaluru,5,10.42,12.25,15498,842
+1407,Vistara,1,7,Premium Economy,Mumbai - Bengaluru,5,10.42,12.92,15498,842
+1408,Vistara,1,7,Premium Economy,Mumbai - Bengaluru,5,10.42,8.42,16506,842
+1409,Vistara,1,7,Premium Economy,Mumbai - Bengaluru,5,14.67,20.17,16506,842
+1410,Vistara,1,7,Premium Economy,Mumbai - Bengaluru,5,10.42,24.42,16506,842
+1411,Vistara,1,7,Premium Economy,Mumbai - Bengaluru,5,22.75,18.17,17738,842
+1412,Air India,0,7,Business,Mumbai - Bengaluru,5,6.25,1.67,18000,842
+1413,Air India,0,7,Business,Mumbai - Bengaluru,5,9.5,1.67,18000,842
+1414,Air India,0,7,Business,Mumbai - Bengaluru,5,16.75,1.75,18000,842
+1415,Vistara,0,7,Business,Mumbai - Bengaluru,5,9.08,1.67,20684,842
+1416,Vistara,0,7,Business,Mumbai - Bengaluru,5,16.0,1.75,20684,842
+1417,Vistara,0,7,Business,Mumbai - Bengaluru,5,19.17,1.75,20684,842
+1418,Vistara,0,7,Business,Mumbai - Bengaluru,5,7.0,1.83,20684,842
+1419,Vistara,0,7,Business,Mumbai - Bengaluru,5,21.0,1.83,27068,842
+1420,Air India,1,7,Business,Mumbai - Bengaluru,5,9.0,5.42,31741,842
+1421,Air India,1,7,Business,Mumbai - Bengaluru,5,5.33,9.08,31741,842
+1422,Air India,1,7,Business,Mumbai - Bengaluru,5,11.17,25.67,42546,842
+1423,Vistara,1,7,Business,Mumbai - Bengaluru,5,9.5,9.0,43901,842
+1424,Vistara,1,7,Business,Mumbai - Bengaluru,5,16.08,26.42,43901,842
+1425,Air India,1,7,Business,Mumbai - Bengaluru,5,8.08,11.75,44571,842
+1426,Air India,1,7,Business,Mumbai - Bengaluru,5,16.0,7.92,44610,842
+1427,Air India,1,7,Business,Mumbai - Bengaluru,5,8.0,8.25,44610,842
+1428,Air India,2,7,Business,Mumbai - Bengaluru,5,15.67,8.25,44610,842
+1429,Air India,1,7,Business,Mumbai - Bengaluru,5,7.0,9.25,44610,842
+1430,Air India,1,7,Business,Mumbai - Bengaluru,5,19.0,13.92,44610,842
+1431,Air India,1,7,Business,Mumbai - Bengaluru,5,18.0,14.92,44610,842
+1432,Air India,1,7,Business,Mumbai - Bengaluru,5,8.0,15.92,44610,842
+1433,Air India,2,7,Business,Mumbai - Bengaluru,5,7.08,16.83,44610,842
+1434,Air India,1,7,Business,Mumbai - Bengaluru,5,7.0,16.92,44610,842
+1435,Air India,1,7,Business,Mumbai - Bengaluru,5,16.0,16.92,44610,842
+1436,Air India,2,7,Business,Mumbai - Bengaluru,5,15.67,17.25,44610,842
+1437,Go First,0,30,Economy,Mumbai - Bengaluru,5,6.08,1.58,2125,842
+1438,Go First,0,30,Economy,Mumbai - Bengaluru,5,14.58,1.58,2125,842
+1439,Go First,0,30,Economy,Mumbai - Bengaluru,5,21.0,1.75,2125,842
+1440,Go First,0,30,Economy,Mumbai - Bengaluru,5,22.83,1.75,2125,842
+1441,IndiGo,1,30,Economy,Mumbai - Bengaluru,5,19.92,5.17,2125,842
+1442,IndiGo,1,30,Economy,Mumbai - Bengaluru,5,12.75,5.42,2125,842
+1443,IndiGo,1,30,Economy,Mumbai - Bengaluru,5,4.58,5.5,2125,842
+1444,IndiGo,1,30,Economy,Mumbai - Bengaluru,5,18.5,6.58,2125,842
+1445,IndiGo,1,30,Economy,Mumbai - Bengaluru,5,15.25,6.75,2125,842
+1446,IndiGo,1,30,Economy,Mumbai - Bengaluru,5,6.25,7.08,2125,842
+1447,IndiGo,1,30,Economy,Mumbai - Bengaluru,5,10.75,7.42,2125,842
+1448,IndiGo,1,30,Economy,Mumbai - Bengaluru,5,17.17,7.92,2125,842
+1449,IndiGo,1,30,Economy,Mumbai - Bengaluru,5,12.75,8.0,2125,842
+1450,IndiGo,0,30,Economy,Mumbai - Bengaluru,5,1.25,1.58,2126,842
+1451,IndiGo,0,30,Economy,Mumbai - Bengaluru,5,6.92,1.58,2126,842
+1452,IndiGo,0,30,Economy,Mumbai - Bengaluru,5,8.5,1.58,2126,842
+1453,Air Asia,0,30,Economy,Mumbai - Bengaluru,5,2.58,1.67,2126,842
+1454,IndiGo,0,30,Economy,Mumbai - Bengaluru,5,7.75,1.67,2126,842
+1455,IndiGo,0,30,Economy,Mumbai - Bengaluru,5,1.83,1.75,2126,842
+1456,IndiGo,0,30,Economy,Mumbai - Bengaluru,5,20.5,1.75,2126,842
+1457,IndiGo,0,30,Economy,Mumbai - Bengaluru,5,4.83,1.83,2126,842
+1458,IndiGo,0,30,Economy,Mumbai - Bengaluru,5,9.5,1.83,2126,842
+1459,IndiGo,0,30,Economy,Mumbai - Bengaluru,5,22.25,1.83,2126,842
+1460,Air India,0,30,Economy,Mumbai - Bengaluru,5,9.5,1.67,2132,842
+1461,Air India,0,30,Economy,Mumbai - Bengaluru,5,16.75,1.75,2132,842
+1462,Vistara,1,30,Premium Economy,Mumbai - Bengaluru,5,22.75,10.25,8599,842
+1463,Vistara,1,30,Premium Economy,Mumbai - Bengaluru,5,6.0,11.08,8599,842
+1464,Vistara,1,30,Premium Economy,Mumbai - Bengaluru,5,21.92,11.08,8599,842
+1465,Vistara,1,30,Premium Economy,Mumbai - Bengaluru,5,22.75,12.08,8599,842
+1466,Vistara,1,30,Premium Economy,Mumbai - Bengaluru,5,6.0,12.83,8599,842
+1467,Vistara,1,30,Premium Economy,Mumbai - Bengaluru,5,21.92,12.92,8599,842
+1468,Vistara,1,30,Premium Economy,Mumbai - Bengaluru,5,6.0,14.42,8599,842
+1469,Vistara,1,30,Premium Economy,Mumbai - Bengaluru,5,6.0,16.67,8599,842
+1470,Vistara,1,30,Premium Economy,Mumbai - Bengaluru,5,6.0,17.33,8599,842
+1471,Vistara,1,30,Premium Economy,Mumbai - Bengaluru,5,22.75,18.33,8599,842
+1472,Vistara,1,30,Premium Economy,Mumbai - Bengaluru,5,21.92,19.17,8599,842
+1473,Vistara,1,30,Premium Economy,Mumbai - Bengaluru,5,14.67,5.75,9159,842
+1474,Vistara,1,30,Premium Economy,Mumbai - Bengaluru,5,10.42,6.67,9159,842
+1475,Vistara,1,30,Premium Economy,Mumbai - Bengaluru,5,15.75,6.92,9159,842
+1476,Vistara,1,30,Premium Economy,Mumbai - Bengaluru,5,15.75,7.58,9159,842
+1477,Vistara,1,30,Premium Economy,Mumbai - Bengaluru,5,14.67,8.0,9159,842
+1478,Vistara,1,30,Premium Economy,Mumbai - Bengaluru,5,10.42,8.42,9159,842
+1479,Vistara,1,30,Premium Economy,Mumbai - Bengaluru,5,14.67,8.67,9159,842
+1480,Vistara,1,30,Premium Economy,Mumbai - Bengaluru,5,10.42,10.0,9159,842
+1481,Vistara,1,30,Premium Economy,Mumbai - Bengaluru,5,6.5,10.58,9159,842
+1482,Vistara,1,30,Premium Economy,Mumbai - Bengaluru,5,20.92,12.08,9159,842
+1483,Vistara,1,30,Premium Economy,Mumbai - Bengaluru,5,10.42,12.25,9159,842
+1484,Vistara,1,30,Premium Economy,Mumbai - Bengaluru,5,6.5,12.33,9159,842
+1485,Vistara,1,30,Premium Economy,Mumbai - Bengaluru,5,10.42,12.92,9159,842
+1486,Vistara,1,30,Premium Economy,Mumbai - Bengaluru,5,6.5,13.92,9159,842
+1487,Vistara,0,30,Business,Mumbai - Bengaluru,5,9.08,1.67,20684,842
+1488,Vistara,0,30,Business,Mumbai - Bengaluru,5,16.0,1.75,20684,842
+1489,Vistara,0,30,Business,Mumbai - Bengaluru,5,17.5,1.75,20684,842
+1490,Vistara,0,30,Business,Mumbai - Bengaluru,5,19.17,1.75,20684,842
+1491,Vistara,0,30,Business,Mumbai - Bengaluru,5,6.0,1.83,20684,842
+1492,Vistara,0,30,Business,Mumbai - Bengaluru,5,7.0,1.83,20684,842
+1493,Vistara,0,30,Business,Mumbai - Bengaluru,5,21.0,1.83,20684,842
+1494,Air India,0,30,Business,Mumbai - Bengaluru,5,9.5,1.67,22924,842
+1495,Air India,0,30,Business,Mumbai - Bengaluru,5,16.75,1.75,22924,842
+1496,Air India,1,30,Business,Mumbai - Bengaluru,5,9.0,6.33,36723,842
+1497,Air India,1,30,Business,Mumbai - Bengaluru,5,5.33,10.0,36723,842
+1498,Vistara,1,30,Business,Mumbai - Bengaluru,5,9.92,7.17,53953,842
+1499,Vistara,1,30,Business,Mumbai - Bengaluru,5,16.08,25.0,53953,842
+1500,Vistara,1,30,Business,Mumbai - Bengaluru,5,6.0,11.08,55728,842
+1501,Vistara,1,30,Business,Mumbai - Bengaluru,5,22.75,12.08,55728,842
+1502,Vistara,1,30,Business,Mumbai - Bengaluru,5,6.0,12.83,55728,842
+1503,Vistara,1,30,Business,Mumbai - Bengaluru,5,6.0,14.42,55728,842
+1504,Vistara,1,30,Business,Mumbai - Bengaluru,5,6.0,16.67,55728,842
+1505,Air India,1,30,Business,Mumbai - Bengaluru,5,16.0,7.92,56557,842
+1506,Air India,2,30,Business,Mumbai - Bengaluru,5,15.42,8.5,56557,842
+1507,Air India,1,30,Business,Mumbai - Bengaluru,5,10.0,13.92,56557,842
+1508,Air India,1,30,Business,Mumbai - Bengaluru,5,19.0,13.92,56557,842
+1509,Air India,1,30,Business,Mumbai - Bengaluru,5,8.0,15.92,56557,842
+1510,Air India,2,30,Business,Mumbai - Bengaluru,5,7.08,16.83,56557,842
+1511,Air India,1,30,Business,Mumbai - Bengaluru,5,16.0,16.92,56557,842
+1512,Air Asia,0,60,Economy,Mumbai - Bengaluru,5,2.58,1.67,2126,842
+1513,Air Asia,0,60,Economy,Mumbai - Bengaluru,5,13.08,1.67,2126,842
+1514,Vistara,0,60,Economy,Mumbai - Bengaluru,5,9.08,1.67,2180,842
+1515,Vistara,0,60,Economy,Mumbai - Bengaluru,5,16.0,1.75,2180,842
+1516,Vistara,0,60,Economy,Mumbai - Bengaluru,5,17.5,1.75,2180,842
+1517,Vistara,0,60,Economy,Mumbai - Bengaluru,5,19.17,1.75,2180,842
+1518,Vistara,0,60,Economy,Mumbai - Bengaluru,5,6.0,1.83,2180,842
+1519,Vistara,0,60,Economy,Mumbai - Bengaluru,5,7.0,1.83,2180,842
+1520,Vistara,0,60,Economy,Mumbai - Bengaluru,5,21.0,1.83,2180,842
+1521,Air India,0,60,Economy,Mumbai - Bengaluru,5,9.5,1.67,2346,842
+1522,IndiGo,0,60,Economy,Mumbai - Bengaluru,5,9.33,1.67,2859,842
+1523,IndiGo,0,60,Economy,Mumbai - Bengaluru,5,1.83,1.75,2859,842
+1524,IndiGo,0,60,Economy,Mumbai - Bengaluru,5,6.08,1.75,2859,842
+1525,IndiGo,0,60,Economy,Mumbai - Bengaluru,5,8.5,1.83,2859,842
+1526,IndiGo,0,60,Economy,Mumbai - Bengaluru,5,17.58,1.83,2859,842
+1527,IndiGo,0,60,Economy,Mumbai - Bengaluru,5,18.92,1.83,2859,842
+1528,IndiGo,0,60,Economy,Mumbai - Bengaluru,5,22.75,1.83,2859,842
+1529,IndiGo,0,60,Economy,Mumbai - Bengaluru,5,20.75,1.92,2859,842
+1530,Go First,0,60,Economy,Mumbai - Bengaluru,5,6.08,1.58,2861,842
+1531,Go First,0,60,Economy,Mumbai - Bengaluru,5,14.58,1.58,2861,842
+1532,Go First,0,60,Economy,Mumbai - Bengaluru,5,21.0,1.75,2861,842
+1533,Go First,0,60,Economy,Mumbai - Bengaluru,5,22.83,1.75,2861,842
+1534,IndiGo,0,60,Economy,Mumbai - Bengaluru,5,14.0,1.67,3161,842
+1535,IndiGo,0,60,Economy,Mumbai - Bengaluru,5,7.0,1.92,3161,842
+1536,IndiGo,0,60,Economy,Mumbai - Bengaluru,5,7.75,1.92,3161,842
+1537,Vistara,1,60,Premium Economy,Mumbai - Bengaluru,5,22.75,10.25,8639,842
+1538,Vistara,1,60,Premium Economy,Mumbai - Bengaluru,5,6.0,11.08,8639,842
+1539,Vistara,1,60,Premium Economy,Mumbai - Bengaluru,5,21.92,11.08,8639,842
+1540,Vistara,1,60,Premium Economy,Mumbai - Bengaluru,5,22.75,12.08,8639,842
+1541,Vistara,1,60,Premium Economy,Mumbai - Bengaluru,5,6.0,12.83,8639,842
+1542,Vistara,1,60,Premium Economy,Mumbai - Bengaluru,5,21.92,12.92,8639,842
+1543,Vistara,1,60,Premium Economy,Mumbai - Bengaluru,5,6.0,14.42,8639,842
+1544,Vistara,1,60,Premium Economy,Mumbai - Bengaluru,5,6.0,16.67,8639,842
+1545,Vistara,1,60,Premium Economy,Mumbai - Bengaluru,5,6.0,17.33,8639,842
+1546,Vistara,1,60,Premium Economy,Mumbai - Bengaluru,5,9.92,7.17,8935,842
+1547,Vistara,1,60,Premium Economy,Mumbai - Bengaluru,5,16.08,25.0,8935,842
+1548,Vistara,1,60,Premium Economy,Mumbai - Bengaluru,5,14.67,5.75,9226,842
+1549,Vistara,1,60,Premium Economy,Mumbai - Bengaluru,5,10.42,6.67,9226,842
+1550,Vistara,1,60,Premium Economy,Mumbai - Bengaluru,5,11.92,6.92,9226,842
+1551,Vistara,1,60,Premium Economy,Mumbai - Bengaluru,5,15.75,6.92,9226,842
+1552,Vistara,1,60,Premium Economy,Mumbai - Bengaluru,5,15.75,7.58,9226,842
+1553,Vistara,1,60,Premium Economy,Mumbai - Bengaluru,5,14.67,8.0,9226,842
+1554,Vistara,1,60,Premium Economy,Mumbai - Bengaluru,5,10.42,8.42,9226,842
+1555,Vistara,1,60,Premium Economy,Mumbai - Bengaluru,5,11.92,8.5,9226,842
+1556,Vistara,1,60,Premium Economy,Mumbai - Bengaluru,5,14.67,8.67,9226,842
+1557,Vistara,1,60,Premium Economy,Mumbai - Bengaluru,5,10.42,10.0,9226,842
+1558,Vistara,1,60,Premium Economy,Mumbai - Bengaluru,5,6.5,10.58,9226,842
+1559,Vistara,1,60,Premium Economy,Mumbai - Bengaluru,5,11.92,10.75,9226,842
+1560,Vistara,1,60,Premium Economy,Mumbai - Bengaluru,5,11.92,11.42,9226,842
+1561,Vistara,1,60,Premium Economy,Mumbai - Bengaluru,5,20.92,12.08,9226,842
+1562,Vistara,0,60,Business,Mumbai - Bengaluru,5,9.08,1.67,20684,842
+1563,Vistara,0,60,Business,Mumbai - Bengaluru,5,16.0,1.75,20684,842
+1564,Vistara,0,60,Business,Mumbai - Bengaluru,5,17.5,1.75,20684,842
+1565,Vistara,0,60,Business,Mumbai - Bengaluru,5,19.17,1.75,20684,842
+1566,Vistara,0,60,Business,Mumbai - Bengaluru,5,6.0,1.83,20684,842
+1567,Vistara,0,60,Business,Mumbai - Bengaluru,5,7.0,1.83,20684,842
+1568,Vistara,0,60,Business,Mumbai - Bengaluru,5,21.0,1.83,20684,842
+1569,Air India,0,60,Business,Mumbai - Bengaluru,5,9.5,1.67,22924,842
+1570,Air India,1,60,Business,Mumbai - Bengaluru,5,5.75,4.67,34450,842
+1571,Air India,1,60,Business,Mumbai - Bengaluru,5,11.17,25.67,48932,842
+1572,Vistara,1,60,Business,Mumbai - Bengaluru,5,9.92,7.17,53953,842
+1573,Vistara,1,60,Business,Mumbai - Bengaluru,5,22.75,10.25,55728,842
+1574,Vistara,1,60,Business,Mumbai - Bengaluru,5,6.0,11.08,55728,842
+1575,Vistara,1,60,Business,Mumbai - Bengaluru,5,22.75,12.08,55728,842
+1576,Vistara,1,60,Business,Mumbai - Bengaluru,5,6.0,12.83,55728,842
+1577,Vistara,1,60,Business,Mumbai - Bengaluru,5,6.0,14.42,55728,842
+1578,Air India,1,60,Business,Mumbai - Bengaluru,5,10.0,6.25,56557,842
+1579,Air India,1,60,Business,Mumbai - Bengaluru,5,16.0,7.92,56557,842
+1580,Air India,1,60,Business,Mumbai - Bengaluru,5,8.0,8.25,56557,842
+1581,Air India,2,60,Business,Mumbai - Bengaluru,5,15.42,8.5,56557,842
+1582,Air India,2,60,Business,Mumbai - Bengaluru,5,7.08,9.17,56557,842
+1583,Air India,1,60,Business,Mumbai - Bengaluru,5,7.0,9.25,56557,842
+1584,Air India,1,60,Business,Mumbai - Bengaluru,5,10.0,13.92,56557,842
+1585,Air India,1,60,Business,Mumbai - Bengaluru,5,19.0,13.92,56557,842
+1586,Air India,1,60,Business,Mumbai - Bengaluru,5,8.0,15.92,56557,842
